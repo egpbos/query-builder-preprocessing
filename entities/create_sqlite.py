@@ -5,7 +5,7 @@ import json
 import sqlite3
 
 
-def parse_node(node, cursor, parent_id=None):
+def parse_node(node, cursor, parent_id=None, level=0):
     """
         this function recursively calls itself on its instances or children, if there are any.
     """
@@ -33,8 +33,8 @@ def parse_node(node, cursor, parent_id=None):
         url = node['url']
 
         cursor.execute('INSERT INTO nodes ' +
-                       '(child_of,is_entity,is_expandable,is_instance,mention_count,name,url) VALUES (?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_expandable, is_instance, mention_count, name, url))
+                       '(child_of,is_entity,is_expandable,is_instance,level,mention_count,name,url) VALUES (?,?,?,?,?,?,?,?)',
+                       (child_of, is_entity, is_expandable, is_instance, level, mention_count, name, url))
 
         if 'children' in node.keys():
             num_children = len(node['children'])
@@ -42,14 +42,16 @@ def parse_node(node, cursor, parent_id=None):
             num_children = 0
 
         entity_id = cursor.lastrowid
+        deeper_level = level + 1
+
         if node['instance_count'] > 0:
             # It has instances
             for instance in node['instances']:
-                parse_node(instance, cursor, entity_id)
+                parse_node(instance, cursor, entity_id, deeper_level)
 
         if num_children > 0:
             for child in node['children']:
-                parse_node(child, cursor, entity_id)
+                parse_node(child, cursor, entity_id, deeper_level)
         return None
     else:
         # node is an instance
@@ -66,8 +68,8 @@ def parse_node(node, cursor, parent_id=None):
         url = node['url']
 
         cursor.execute('INSERT INTO nodes ' +
-                       '(child_of,is_entity,is_expandable,is_instance,mention_count,name,url) VALUES (?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_expandable, is_instance, mention_count, name, url))
+                       '(child_of,is_entity,is_expandable,is_instance,level,mention_count,name,url) VALUES (?,?,?,?,?,?,?,?)',
+                       (child_of, is_entity, is_expandable, is_instance, level, mention_count, name, url))
 
         return None
 
@@ -90,6 +92,7 @@ def run(input_json, db_name):
             is_entity integer not null,
             is_expandable integer not null,
             is_instance integer not null,
+            level integer not null,
             mention_count integer not null,
             name text not null,
             url text not null)
@@ -97,7 +100,7 @@ def run(input_json, db_name):
 
     with open(input_json) as jsonFile:
         data = json.load(jsonFile)
-        parse_node(data['children'][0], c)
+        parse_node(data['children'][0], c, 0)
 
     conn.commit()
 
