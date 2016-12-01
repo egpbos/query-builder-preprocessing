@@ -10,13 +10,13 @@ def parse_node(node, cursor, parent_id=None, level=0):
         this function recursively calls itself on its instances or children, if there are any.
     """
 
-    def isexpandable():
+    def isleaf():
         if 'instance_count' in node.keys() and node['instance_count'] > 0:
-            return True
-        elif 'children' in node.keys() and len(node['children']) > 0:
-            return True
-        else:
             return False
+        elif 'children' in node.keys() and len(node['children']) > 0:
+            return False
+        else:
+            return True
 
     if 'type' in node.keys():
         # node is an entity
@@ -24,7 +24,7 @@ def parse_node(node, cursor, parent_id=None, level=0):
         child_of = parent_id
         is_entity = True
         is_instance = False
-        is_expandable = isexpandable()
+        is_leaf = isleaf()
         if 'mention_count' in node.keys():
             mention_count = node['mention_count']
         else:
@@ -33,8 +33,8 @@ def parse_node(node, cursor, parent_id=None, level=0):
         url = node['url']
 
         cursor.execute('INSERT INTO nodes ' +
-                       '(child_of,is_entity,is_expandable,is_instance,level,mention_count,name,url) VALUES (?,?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_expandable, is_instance, level, mention_count, name, url))
+                       '(childof,isentity,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
+                       (child_of, is_entity, is_leaf, is_instance, level, mention_count, name, url))
 
         if 'children' in node.keys():
             num_children = len(node['children'])
@@ -59,7 +59,7 @@ def parse_node(node, cursor, parent_id=None, level=0):
         child_of = parent_id
         is_entity = False
         is_instance = True
-        is_expandable = isexpandable()
+        is_leaf = isleaf()
         if 'mention_count' in node.keys():
             mention_count = node['mention_count']
         else:
@@ -68,8 +68,8 @@ def parse_node(node, cursor, parent_id=None, level=0):
         url = node['url']
 
         cursor.execute('INSERT INTO nodes ' +
-                       '(child_of,is_entity,is_expandable,is_instance,level,mention_count,name,url) VALUES (?,?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_expandable, is_instance, level, mention_count, name, url))
+                       '(childof,isentity,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
+                       (child_of, is_entity, is_leaf, is_instance, level, mention_count, name, url))
 
         return None
 
@@ -87,13 +87,13 @@ def run(input_json, db_name):
 
     c.execute("""
         CREATE TABLE nodes (
-            child_of integer,
+            childof integer,
             id integer primary key autoincrement,
-            is_entity integer not null,
-            is_expandable integer not null,
-            is_instance integer not null,
+            isentity integer not null,
+            isleaf integer not null,
+            isinstance integer not null,
             level integer not null,
-            mention_count integer not null,
+            mentioncount integer not null,
             name text not null,
             url text not null)
             """)
