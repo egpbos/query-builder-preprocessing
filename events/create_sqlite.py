@@ -19,11 +19,11 @@ def parse_node(node, cursor, parent_id=None, level=0):
             return True
 
     if 'type' in node.keys():
-        # node is an entity
+        # node is an event
 
         child_of = parent_id
-        is_entity = True
-        is_instance = False
+        is_event = True
+        is_instance = not is_event
         is_leaf = isleaf()
         if 'mention_count' in node.keys():
             mention_count = node['mention_count']
@@ -32,33 +32,33 @@ def parse_node(node, cursor, parent_id=None, level=0):
         name = node['name']
         url = node['url']
 
-        cursor.execute('INSERT INTO nodes ' +
-                       '(childof,isentity,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_leaf, is_instance, level, mention_count, name, url))
+        cursor.execute('INSERT INTO events ' +
+                       '(childof,isevent,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
+                       (child_of, is_event, is_leaf, is_instance, level, mention_count, name, url))
 
         if 'children' in node.keys():
             num_children = len(node['children'])
         else:
             num_children = 0
 
-        entity_id = cursor.lastrowid
+        event_id = cursor.lastrowid
         deeper_level = level + 1
 
         if node['instance_count'] > 0:
             # It has instances
             for instance in node['instances']:
-                parse_node(instance, cursor, entity_id, deeper_level)
+                parse_node(instance, cursor, event_id, deeper_level)
 
         if num_children > 0:
             for child in node['children']:
-                parse_node(child, cursor, entity_id, deeper_level)
+                parse_node(child, cursor, event_id, deeper_level)
         return None
     else:
-        # node is an instance
+        # node is an instance of event
 
         child_of = parent_id
-        is_entity = False
-        is_instance = True
+        is_event = False
+        is_instance = not is_event
         is_leaf = isleaf()
         if 'mention_count' in node.keys():
             mention_count = node['mention_count']
@@ -67,9 +67,9 @@ def parse_node(node, cursor, parent_id=None, level=0):
         name = node['name']
         url = node['url']
 
-        cursor.execute('INSERT INTO nodes ' +
-                       '(childof,isentity,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_leaf, is_instance, level, mention_count, name, url))
+        cursor.execute('INSERT INTO events ' +
+                       '(childof,isevent,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
+                       (child_of, is_event, is_leaf, is_instance, level, mention_count, name, url))
 
         return None
 
@@ -86,10 +86,10 @@ def run(input_json, db_name):
     c = conn.cursor()
 
     c.execute("""
-        CREATE TABLE nodes (
+        CREATE TABLE events (
             childof integer,
             id integer primary key autoincrement,
-            isentity integer not null,
+            isevent integer not null,
             isleaf integer not null,
             isinstance integer not null,
             level integer not null,
