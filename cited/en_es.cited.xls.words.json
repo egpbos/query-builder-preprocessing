@@ -1,0 +1,6165 @@
+{"children": [
+{
+"instance_count": 1213,
+"instances": [
+{
+"mention_count": 1408,
+"name": "Commission_(remuneration)",
+"url": "Commission_(remuneration)"
+},
+{
+"mention_count": 1172,
+"name": "CompetitionCouncil",
+"url": "CompetitionCouncil"
+},
+{
+"mention_count": 908,
+"name": "European_Commission",
+"url": "European_Commission"
+},
+{
+"mention_count": 822,
+"name": "CouncilofCompetition",
+"url": "CouncilofCompetition"
+},
+{
+"mention_count": 437,
+"name": "someone",
+"url": "someone"
+},
+{
+"mention_count": 276,
+"name": "Government_agency",
+"url": "Government_agency"
+},
+{
+"mention_count": 242,
+"name": "U.S._Securities_and_Exchange_Commission",
+"url": "U.S._Securities_and_Exchange_Commission"
+},
+{
+"mention_count": 219,
+"name": "Attorney_general",
+"url": "Attorney_general"
+},
+{
+"mention_count": 192,
+"name": "National_Bank_of_Romania",
+"url": "National_Bank_of_Romania"
+},
+{
+"mention_count": 190,
+"name": "Romania",
+"url": "Romania"
+},
+{
+"mention_count": 188,
+"name": "Politics_of_Albania",
+"url": "Politics_of_Albania"
+},
+{
+"mention_count": 180,
+"name": "CommissionforProtectionofCompetition",
+"url": "CommissionforProtectionofCompetition"
+},
+{
+"mention_count": 149,
+"name": "Competition_Commission_(United_Kingdom)",
+"url": "Competition_Commission_(United_Kingdom)"
+},
+{
+"mention_count": 143,
+"name": "Organization_of_American_States",
+"url": "Organization_of_American_States"
+},
+{
+"mention_count": 130,
+"name": "Autorità_Garante_della_Concorrenza_e_del_Mercato",
+"url": "Autorità_Garante_della_Concorrenza_e_del_Mercato"
+},
+{
+"mention_count": 125,
+"name": "South_Carolina",
+"url": "South_Carolina"
+},
+{
+"mention_count": 118,
+"name": "Competition_law",
+"url": "Competition_law"
+},
+{
+"mention_count": 118,
+"name": "OppositeParty",
+"url": "OppositeParty"
+},
+{
+"mention_count": 116,
+"name": "Ley",
+"url": "Ley"
+},
+{
+"mention_count": 108,
+"name": "Nicola_Sala",
+"url": "Nicola_Sala"
+},
+{
+"mention_count": 105,
+"name": "Director-general",
+"url": "Director-general"
+},
+{
+"mention_count": 101,
+"name": "Norwegian_Competition_Authority",
+"url": "Norwegian_Competition_Authority"
+},
+{
+"mention_count": 99,
+"name": "Dominican_Order",
+"url": "Dominican_Order"
+},
+{
+"mention_count": 94,
+"name": "Authority",
+"url": "Authority"
+},
+{
+"mention_count": 89,
+"name": "SalaEspecializadaenDefensadelaCompetencia",
+"url": "SalaEspecializadaenDefensadelaCompetencia"
+},
+{
+"mention_count": 88,
+"name": "HTribunal",
+"url": "HTribunal"
+},
+{
+"mention_count": 84,
+"name": "Electric_motor",
+"url": "Electric_motor"
+},
+{
+"mention_count": 77,
+"name": "Giurgiu",
+"url": "Giurgiu"
+},
+{
+"mention_count": 74,
+"name": "Financial_Supervisory_Authority_(Iceland)",
+"url": "Financial_Supervisory_Authority_(Iceland)"
+},
+{
+"mention_count": 74,
+"name": "Senior_Counsel",
+"url": "Senior_Counsel"
+},
+{
+"mention_count": 69,
+"name": "Delhi_High_Court",
+"url": "Delhi_High_Court"
+},
+{
+"mention_count": 67,
+"name": "Court",
+"url": "Court"
+},
+{
+"mention_count": 66,
+"name": "MyCC",
+"url": "MyCC"
+},
+{
+"mention_count": 62,
+"name": "Council_of_the_European_Union",
+"url": "Council_of_the_European_Union"
+},
+{
+"mention_count": 62,
+"name": "Division",
+"url": "Division"
+},
+{
+"mention_count": 60,
+"name": "ITPO",
+"url": "ITPO"
+},
+{
+"mention_count": 57,
+"name": "Sunoko",
+"url": "Sunoko"
+},
+{
+"mention_count": 55,
+"name": "Ripley_S.A.",
+"url": "Ripley_S.A."
+},
+{
+"mention_count": 52,
+"name": "Applicant_(sketch)",
+"url": "Applicant_(sketch)"
+},
+{
+"mention_count": 52,
+"name": "CodigoesteColegiado",
+"url": "CodigoesteColegiado"
+},
+{
+"mention_count": 51,
+"name": "Dukat,_Albania",
+"url": "Dukat,_Albania"
+},
+{
+"mention_count": 49,
+"name": "Colegiado",
+"url": "Colegiado"
+},
+{
+"mention_count": 48,
+"name": "Bucharest",
+"url": "Bucharest"
+},
+{
+"mention_count": 44,
+"name": "SaladeDefensadelaCompetencia",
+"url": "SaladeDefensadelaCompetencia"
+},
+{
+"mention_count": 42,
+"name": "Onex_Corporation",
+"url": "Onex_Corporation"
+},
+{
+"mention_count": 40,
+"name": "Germany",
+"url": "Germany"
+},
+{
+"mention_count": 40,
+"name": "Informant",
+"url": "Informant"
+},
+{
+"mention_count": 40,
+"name": "Municipality_of_Butel",
+"url": "Municipality_of_Butel"
+},
+{
+"mention_count": 39,
+"name": "ATLAS_experiment",
+"url": "ATLAS_experiment"
+},
+{
+"mention_count": 39,
+"name": "Statute",
+"url": "Statute"
+},
+{
+"mention_count": 37,
+"name": "Joint-stock_company",
+"url": "Joint-stock_company"
+},
+{
+"mention_count": 36,
+"name": "Bosnia_and_Herzegovina",
+"url": "Bosnia_and_Herzegovina"
+},
+{
+"mention_count": 35,
+"name": "National_Police_Corps_of_Spain",
+"url": "National_Police_Corps_of_Spain"
+},
+{
+"mention_count": 35,
+"name": "Yellowdog_Updater,_Modified",
+"url": "Yellowdog_Updater,_Modified"
+},
+{
+"mention_count": 34,
+"name": "Corporation",
+"url": "Corporation"
+},
+{
+"mention_count": 33,
+"name": "Albania",
+"url": "Albania"
+},
+{
+"mention_count": 33,
+"name": "Hyundai_Motor_Company",
+"url": "Hyundai_Motor_Company"
+},
+{
+"mention_count": 32,
+"name": "KGK",
+"url": "KGK"
+},
+{
+"mention_count": 32,
+"name": "MemberDiscussed",
+"url": "MemberDiscussed"
+},
+{
+"mention_count": 31,
+"name": "Centroproizvod",
+"url": "Centroproizvod"
+},
+{
+"mention_count": 30,
+"name": "AttorneyofSarajevo",
+"url": "AttorneyofSarajevo"
+},
+{
+"mention_count": 30,
+"name": "DanielPavel",
+"url": "DanielPavel"
+},
+{
+"mention_count": 30,
+"name": "Principio_de_razonabilidad_(Derecho_laboral)",
+"url": "Principio_de_razonabilidad_(Derecho_laboral)"
+},
+{
+"mention_count": 30,
+"name": "Televizija_OBN",
+"url": "Televizija_OBN"
+},
+{
+"mention_count": 29,
+"name": "Bacău",
+"url": "Bacău"
+},
+{
+"mention_count": 29,
+"name": "Minister_of_the_Economy,_Finances_and_Industry_(France)",
+"url": "Minister_of_the_Economy,_Finances_and_Industry_(France)"
+},
+{
+"mention_count": 29,
+"name": "OPs",
+"url": "OPs"
+},
+{
+"mention_count": 28,
+"name": "COPROCOM",
+"url": "COPROCOM"
+},
+{
+"mention_count": 28,
+"name": "European_Bank_for_Reconstruction_and_Development",
+"url": "European_Bank_for_Reconstruction_and_Development"
+},
+{
+"mention_count": 28,
+"name": "Firefighting",
+"url": "Firefighting"
+},
+{
+"mention_count": 28,
+"name": "Herzegovina",
+"url": "Herzegovina"
+},
+{
+"mention_count": 27,
+"name": "Director_General_of_Police",
+"url": "Director_General_of_Police"
+},
+{
+"mention_count": 27,
+"name": "Pakistan_International_Airlines",
+"url": "Pakistan_International_Airlines"
+},
+{
+"mention_count": 27,
+"name": "Plaintiff",
+"url": "Plaintiff"
+},
+{
+"mention_count": 26,
+"name": "EuropeHungary",
+"url": "EuropeHungary"
+},
+{
+"mention_count": 26,
+"name": "Italy",
+"url": "Italy"
+},
+{
+"mention_count": 26,
+"name": "Organo",
+"url": "Organo"
+},
+{
+"mention_count": 26,
+"name": "Sarajevo",
+"url": "Sarajevo"
+},
+{
+"mention_count": 25,
+"name": "Department_of_Health_(United_Kingdom)",
+"url": "Department_of_Health_(United_Kingdom)"
+},
+{
+"mention_count": 25,
+"name": "Ericsson",
+"url": "Ericsson"
+},
+{
+"mention_count": 25,
+"name": "Fourth_Amendment_to_the_United_States_Constitution",
+"url": "Fourth_Amendment_to_the_United_States_Constitution"
+},
+{
+"mention_count": 25,
+"name": "Spain",
+"url": "Spain"
+},
+{
+"mention_count": 24,
+"name": "CognisOleochemicalsMalaysia",
+"url": "CognisOleochemicalsMalaysia"
+},
+{
+"mention_count": 24,
+"name": "Dan_Grigore",
+"url": "Dan_Grigore"
+},
+{
+"mention_count": 24,
+"name": "FairTradingCommission",
+"url": "FairTradingCommission"
+},
+{
+"mention_count": 24,
+"name": "OMV",
+"url": "OMV"
+},
+{
+"mention_count": 24,
+"name": "Politics_of_Botswana",
+"url": "Politics_of_Botswana"
+},
+{
+"mention_count": 24,
+"name": "Switerland",
+"url": "Switerland"
+},
+{
+"mention_count": 23,
+"name": "ALROSASlatina",
+"url": "ALROSASlatina"
+},
+{
+"mention_count": 23,
+"name": "BV",
+"url": "BV"
+},
+{
+"mention_count": 23,
+"name": "Botswana",
+"url": "Botswana"
+},
+{
+"mention_count": 23,
+"name": "Micomir",
+"url": "Micomir"
+},
+{
+"mention_count": 23,
+"name": "SCFlancoInternationalSRLBucuresti",
+"url": "SCFlancoInternationalSRLBucuresti"
+},
+{
+"mention_count": 23,
+"name": "State_(polity)",
+"url": "State_(polity)"
+},
+{
+"mention_count": 22,
+"name": "List_of_Marvel_Comics_characters:_D",
+"url": "List_of_Marvel_Comics_characters:_D"
+},
+{
+"mention_count": 22,
+"name": "OSTHoldingGmbH",
+"url": "OSTHoldingGmbH"
+},
+{
+"mention_count": 22,
+"name": "PrincipiodeRazonabilidad17",
+"url": "PrincipiodeRazonabilidad17"
+},
+{
+"mention_count": 22,
+"name": "SCLaFourmiSA",
+"url": "SCLaFourmiSA"
+},
+{
+"mention_count": 22,
+"name": "SaladeDefensadelaCompetenciadelTribunaldelINDECOPI",
+"url": "SaladeDefensadelaCompetenciadelTribunaldelINDECOPI"
+},
+{
+"mention_count": 21,
+"name": "CenturyOfficeSupplies",
+"url": "CenturyOfficeSupplies"
+},
+{
+"mention_count": 21,
+"name": "DecisionofthePlenumofCompetitionCouncil",
+"url": "DecisionofthePlenumofCompetitionCouncil"
+},
+{
+"mention_count": 21,
+"name": "Department_of_Telecommunications",
+"url": "Department_of_Telecommunications"
+},
+{
+"mention_count": 21,
+"name": "OrganizationandFunctioningoftheCompetitionAuthority",
+"url": "OrganizationandFunctioningoftheCompetitionAuthority"
+},
+{
+"mention_count": 21,
+"name": "Scheduled_Castes_and_Scheduled_Tribes",
+"url": "Scheduled_Castes_and_Scheduled_Tribes"
+},
+{
+"mention_count": 20,
+"name": "Council_of_Europe",
+"url": "Council_of_Europe"
+},
+{
+"mention_count": 20,
+"name": "Cyprus",
+"url": "Cyprus"
+},
+{
+"mention_count": 20,
+"name": "Empresa_Nacional_del_Petr�leo",
+"url": "Empresa_Nacional_del_Petr�leo"
+},
+{
+"mention_count": 20,
+"name": "Kapitan_Cina",
+"url": "Kapitan_Cina"
+},
+{
+"mention_count": 20,
+"name": "LeyNo27444",
+"url": "LeyNo27444"
+},
+{
+"mention_count": 20,
+"name": "MOLDOCOR",
+"url": "MOLDOCOR"
+},
+{
+"mention_count": 20,
+"name": "RomanianCompetitionCouncil",
+"url": "RomanianCompetitionCouncil"
+},
+{
+"mention_count": 20,
+"name": "Sighișoara",
+"url": "Sighișoara"
+},
+{
+"mention_count": 20,
+"name": "Tribunal_de_Defensa_de_la_Libre_Competencia",
+"url": "Tribunal_de_Defensa_de_la_Libre_Competencia"
+},
+{
+"mention_count": 19,
+"name": "CARLYLEGROUPUSA",
+"url": "CARLYLEGROUPUSA"
+},
+{
+"mention_count": 19,
+"name": "ComisionparaPromoverlaCompetencia",
+"url": "ComisionparaPromoverlaCompetencia"
+},
+{
+"mention_count": 19,
+"name": "GeneralDepartmentofCivilAviation",
+"url": "GeneralDepartmentofCivilAviation"
+},
+{
+"mention_count": 19,
+"name": "OSMPs",
+"url": "OSMPs"
+},
+{
+"mention_count": 19,
+"name": "RaiffeisenLandesbankOberosterreichAG",
+"url": "RaiffeisenLandesbankOberosterreichAG"
+},
+{
+"mention_count": 19,
+"name": "RomanianPressGroup",
+"url": "RomanianPressGroup"
+},
+{
+"mention_count": 18,
+"name": "Belupo",
+"url": "Belupo"
+},
+{
+"mention_count": 18,
+"name": "CompetitionLawno",
+"url": "CompetitionLawno"
+},
+{
+"mention_count": 18,
+"name": "Creativity",
+"url": "Creativity"
+},
+{
+"mention_count": 18,
+"name": "European_Telecommunications_Standards_Institute",
+"url": "European_Telecommunications_Standards_Institute"
+},
+{
+"mention_count": 18,
+"name": "METALEUROEST",
+"url": "METALEUROEST"
+},
+{
+"mention_count": 18,
+"name": "Netherlands",
+"url": "Netherlands"
+},
+{
+"mention_count": 18,
+"name": "ProductieExperimentala",
+"url": "ProductieExperimentala"
+},
+{
+"mention_count": 18,
+"name": "STADA_Arzneimittel",
+"url": "STADA_Arzneimittel"
+},
+{
+"mention_count": 18,
+"name": "TMF_Group",
+"url": "TMF_Group"
+},
+{
+"mention_count": 17,
+"name": "CHFA-FM",
+"url": "CHFA-FM"
+},
+{
+"mention_count": 17,
+"name": "CentrosyProgramasEducativosPrivados",
+"url": "CentrosyProgramasEducativosPrivados"
+},
+{
+"mention_count": 17,
+"name": "ConcessionLaw",
+"url": "ConcessionLaw"
+},
+{
+"mention_count": 17,
+"name": "Deliberative_assembly",
+"url": "Deliberative_assembly"
+},
+{
+"mention_count": 17,
+"name": "Limited_company",
+"url": "Limited_company"
+},
+{
+"mention_count": 17,
+"name": "Megasteel",
+"url": "Megasteel"
+},
+{
+"mention_count": 17,
+"name": "SCVodafoneRomania",
+"url": "SCVodafoneRomania"
+},
+{
+"mention_count": 16,
+"name": "Brazi",
+"url": "Brazi"
+},
+{
+"mention_count": 16,
+"name": "CONTINENTAL",
+"url": "CONTINENTAL"
+},
+{
+"mention_count": 16,
+"name": "Far_East_Shipping_Company",
+"url": "Far_East_Shipping_Company"
+},
+{
+"mention_count": 16,
+"name": "Hungary",
+"url": "Hungary"
+},
+{
+"mention_count": 16,
+"name": "KK_Vršac",
+"url": "KK_Vršac"
+},
+{
+"mention_count": 16,
+"name": "Maroussi_B.C.",
+"url": "Maroussi_B.C."
+},
+{
+"mention_count": 16,
+"name": "MedienHolding",
+"url": "MedienHolding"
+},
+{
+"mention_count": 16,
+"name": "Municipalidad_de_Chile",
+"url": "Municipalidad_de_Chile"
+},
+{
+"mention_count": 16,
+"name": "OSTHolding",
+"url": "OSTHolding"
+},
+{
+"mention_count": 16,
+"name": "SmithfieldInternationalInvestmentsInc",
+"url": "SmithfieldInternationalInvestmentsInc"
+},
+{
+"mention_count": 16,
+"name": "TurkishAirLines",
+"url": "TurkishAirLines"
+},
+{
+"mention_count": 16,
+"name": "UnicaDisposicionComplementariaFinaldelDecretoSupremo0062014PCM",
+"url": "UnicaDisposicionComplementariaFinaldelDecretoSupremo0062014PCM"
+},
+{
+"mention_count": 15,
+"name": ".",
+"url": "."
+},
+{
+"mention_count": 15,
+"name": "ASTRAL",
+"url": "ASTRAL"
+},
+{
+"mention_count": 15,
+"name": "D.Gray-man",
+"url": "D.Gray-man"
+},
+{
+"mention_count": 15,
+"name": "Fiscal�a_Nacional_Econ�mica_de_Chile",
+"url": "Fiscal�a_Nacional_Econ�mica_de_Chile"
+},
+{
+"mention_count": 15,
+"name": "Ministry_of_Public_Finance_(Romania)",
+"url": "Ministry_of_Public_Finance_(Romania)"
+},
+{
+"mention_count": 15,
+"name": "NovaLjubljanska",
+"url": "NovaLjubljanska"
+},
+{
+"mention_count": 15,
+"name": "Parliament_of_the_Republic_of_Moldova",
+"url": "Parliament_of_the_Republic_of_Moldova"
+},
+{
+"mention_count": 15,
+"name": "ProtectionofCompetition",
+"url": "ProtectionofCompetition"
+},
+{
+"mention_count": 15,
+"name": "The_Informant!",
+"url": "The_Informant!"
+},
+{
+"mention_count": 14,
+"name": "BalkanPetroleumLtd",
+"url": "BalkanPetroleumLtd"
+},
+{
+"mention_count": 14,
+"name": "BancaIntesaSpa",
+"url": "BancaIntesaSpa"
+},
+{
+"mention_count": 14,
+"name": "CounciloftheCommission",
+"url": "CounciloftheCommission"
+},
+{
+"mention_count": 14,
+"name": "GeneralDirectorateofCustoms",
+"url": "GeneralDirectorateofCustoms"
+},
+{
+"mention_count": 14,
+"name": "GeneralSecretariatoftheCompetitionCouncil",
+"url": "GeneralSecretariatoftheCompetitionCouncil"
+},
+{
+"mention_count": 14,
+"name": "OtherSocialInsuranceRights",
+"url": "OtherSocialInsuranceRights"
+},
+{
+"mention_count": 14,
+"name": "RaiffeisenInformatik",
+"url": "RaiffeisenInformatik"
+},
+{
+"mention_count": 14,
+"name": "The_Assembly",
+"url": "The_Assembly"
+},
+{
+"mention_count": 14,
+"name": "Vršac",
+"url": "Vršac"
+},
+{
+"mention_count": 13,
+"name": "Competition_Act_1998",
+"url": "Competition_Act_1998"
+},
+{
+"mention_count": 13,
+"name": "ComunaleFloresti",
+"url": "ComunaleFloresti"
+},
+{
+"mention_count": 13,
+"name": "InterconnectionAgreement",
+"url": "InterconnectionAgreement"
+},
+{
+"mention_count": 13,
+"name": "LeydePromociondelaCompetenciayDefensaEfectivadelConsumidor",
+"url": "LeydePromociondelaCompetenciayDefensaEfectivadelConsumidor"
+},
+{
+"mention_count": 13,
+"name": "MinistryofTransportandInfrastructure",
+"url": "MinistryofTransportandInfrastructure"
+},
+{
+"mention_count": 13,
+"name": "Regulation",
+"url": "Regulation"
+},
+{
+"mention_count": 13,
+"name": "Republic_of_Macedonia",
+"url": "Republic_of_Macedonia"
+},
+{
+"mention_count": 13,
+"name": "S.A._(corporation)",
+"url": "S.A._(corporation)"
+},
+{
+"mention_count": 13,
+"name": "SUTEL",
+"url": "SUTEL"
+},
+{
+"mention_count": 13,
+"name": "TCTN",
+"url": "TCTN"
+},
+{
+"mention_count": 13,
+"name": "Telecommunications_Industry_Association",
+"url": "Telecommunications_Industry_Association"
+},
+{
+"mention_count": 12,
+"name": "Africa",
+"url": "Africa"
+},
+{
+"mention_count": 12,
+"name": "AnsarAliNoor",
+"url": "AnsarAliNoor"
+},
+{
+"mention_count": 12,
+"name": "CAnalisis",
+"url": "CAnalisis"
+},
+{
+"mention_count": 12,
+"name": "China",
+"url": "China"
+},
+{
+"mention_count": 12,
+"name": "ComisionNacional",
+"url": "ComisionNacional"
+},
+{
+"mention_count": 12,
+"name": "DHL_Express",
+"url": "DHL_Express"
+},
+{
+"mention_count": 12,
+"name": "DecisionNo",
+"url": "DecisionNo"
+},
+{
+"mention_count": 12,
+"name": "DecisionofthePlenum",
+"url": "DecisionofthePlenum"
+},
+{
+"mention_count": 12,
+"name": "EncikTeyTongSeng",
+"url": "EncikTeyTongSeng"
+},
+{
+"mention_count": 12,
+"name": "European_Patent_Organisation",
+"url": "European_Patent_Organisation"
+},
+{
+"mention_count": 12,
+"name": "GrupMM",
+"url": "GrupMM"
+},
+{
+"mention_count": 12,
+"name": "KenesBV",
+"url": "KenesBV"
+},
+{
+"mention_count": 12,
+"name": "Limited_liability_company",
+"url": "Limited_liability_company"
+},
+{
+"mention_count": 12,
+"name": "Master_of_Laws",
+"url": "Master_of_Laws"
+},
+{
+"mention_count": 12,
+"name": "Ministry_of_Education,_Culture,_Sports,_Science_and_Technology",
+"url": "Ministry_of_Education,_Culture,_Sports,_Science_and_Technology"
+},
+{
+"mention_count": 12,
+"name": "Municipality",
+"url": "Municipality"
+},
+{
+"mention_count": 12,
+"name": "NAPC",
+"url": "NAPC"
+},
+{
+"mention_count": 12,
+"name": "NationalStrategy",
+"url": "NationalStrategy"
+},
+{
+"mention_count": 12,
+"name": "NationalUnionofBailiffs",
+"url": "NationalUnionofBailiffs"
+},
+{
+"mention_count": 12,
+"name": "Nestlé",
+"url": "Nestlé"
+},
+{
+"mention_count": 12,
+"name": "People_meter",
+"url": "People_meter"
+},
+{
+"mention_count": 12,
+"name": "PlenumoftheCompetitionCouncil",
+"url": "PlenumoftheCompetitionCouncil"
+},
+{
+"mention_count": 12,
+"name": "SCTransporturiAuto",
+"url": "SCTransporturiAuto"
+},
+{
+"mention_count": 12,
+"name": "SharePurchaseAgreement",
+"url": "SharePurchaseAgreement"
+},
+{
+"mention_count": 12,
+"name": "TRANSCARPAT",
+"url": "TRANSCARPAT"
+},
+{
+"mention_count": 12,
+"name": "TucaAssociates",
+"url": "TucaAssociates"
+},
+{
+"mention_count": 12,
+"name": "UTIInvestmentLuxembourg",
+"url": "UTIInvestmentLuxembourg"
+},
+{
+"mention_count": 11,
+"name": "Aragon",
+"url": "Aragon"
+},
+{
+"mention_count": 11,
+"name": "Chauvinism",
+"url": "Chauvinism"
+},
+{
+"mention_count": 11,
+"name": "ComisiondePromocionyDefensadelaCompetencia",
+"url": "ComisiondePromocionyDefensadelaCompetencia"
+},
+{
+"mention_count": 11,
+"name": "CondemSABucharest",
+"url": "CondemSABucharest"
+},
+{
+"mention_count": 11,
+"name": "Finance_minister",
+"url": "Finance_minister"
+},
+{
+"mention_count": 11,
+"name": "Ljubljana",
+"url": "Ljubljana"
+},
+{
+"mention_count": 11,
+"name": "Radio_Data_System",
+"url": "Radio_Data_System"
+},
+{
+"mention_count": 11,
+"name": "Record_chart",
+"url": "Record_chart"
+},
+{
+"mention_count": 11,
+"name": "SC",
+"url": "SC"
+},
+{
+"mention_count": 11,
+"name": "SaladeDefensadelaCompetenciadelTribunaldelIndecopi",
+"url": "SaladeDefensadelaCompetenciadelTribunaldelIndecopi"
+},
+{
+"mention_count": 11,
+"name": "SecretariaTecnica",
+"url": "SecretariaTecnica"
+},
+{
+"mention_count": 11,
+"name": "Superintendencia_de_Valores_y_Seguros_de_Chile",
+"url": "Superintendencia_de_Valores_y_Seguros_de_Chile"
+},
+{
+"mention_count": 11,
+"name": "Vodafone",
+"url": "Vodafone"
+},
+{
+"mention_count": 10,
+"name": "AboMixSASatuMare",
+"url": "AboMixSASatuMare"
+},
+{
+"mention_count": 10,
+"name": "American_Express",
+"url": "American_Express"
+},
+{
+"mention_count": 10,
+"name": "CNADNR",
+"url": "CNADNR"
+},
+{
+"mention_count": 10,
+"name": "CNo",
+"url": "CNo"
+},
+{
+"mention_count": 10,
+"name": "CompaniesofPhysicalPreservationandSecurityServices",
+"url": "CompaniesofPhysicalPreservationandSecurityServices"
+},
+{
+"mention_count": 10,
+"name": "Competition_Act",
+"url": "Competition_Act"
+},
+{
+"mention_count": 10,
+"name": "ConstitutionalCourtoftheRepublicofAlbania",
+"url": "ConstitutionalCourtoftheRepublicofAlbania"
+},
+{
+"mention_count": 10,
+"name": "Cosmopolitan_(magazine)",
+"url": "Cosmopolitan_(magazine)"
+},
+{
+"mention_count": 10,
+"name": "DELIICEUCRLo",
+"url": "DELIICEUCRLo"
+},
+{
+"mention_count": 10,
+"name": "EnquiryOfficer",
+"url": "EnquiryOfficer"
+},
+{
+"mention_count": 10,
+"name": "EnquiryReport",
+"url": "EnquiryReport"
+},
+{
+"mention_count": 10,
+"name": "European_Atomic_Energy_Community",
+"url": "European_Atomic_Energy_Community"
+},
+{
+"mention_count": 10,
+"name": "Florin",
+"url": "Florin"
+},
+{
+"mention_count": 10,
+"name": "GiurgiuNavSA",
+"url": "GiurgiuNavSA"
+},
+{
+"mention_count": 10,
+"name": "Google",
+"url": "Google"
+},
+{
+"mention_count": 10,
+"name": "Ground-penetrating_radar",
+"url": "Ground-penetrating_radar"
+},
+{
+"mention_count": 10,
+"name": "HERZEGOVINACouncilofCompetition",
+"url": "HERZEGOVINACouncilofCompetition"
+},
+{
+"mention_count": 10,
+"name": "Judgment_(law)",
+"url": "Judgment_(law)"
+},
+{
+"mention_count": 10,
+"name": "LeyNdeg7472",
+"url": "LeyNdeg7472"
+},
+{
+"mention_count": 10,
+"name": "National_Liberation_Council",
+"url": "National_Liberation_Council"
+},
+{
+"mention_count": 10,
+"name": "Philip_Morris_International",
+"url": "Philip_Morris_International"
+},
+{
+"mention_count": 10,
+"name": "PrincipiodeRazonabilidad12",
+"url": "PrincipiodeRazonabilidad12"
+},
+{
+"mention_count": 10,
+"name": "Radar_cross-section",
+"url": "Radar_cross-section"
+},
+{
+"mention_count": 10,
+"name": "SAConstanta",
+"url": "SAConstanta"
+},
+{
+"mention_count": 10,
+"name": "Service_(economics)",
+"url": "Service_(economics)"
+},
+{
+"mention_count": 10,
+"name": "United_States_House_of_Representatives",
+"url": "United_States_House_of_Representatives"
+},
+{
+"mention_count": 9,
+"name": "AS",
+"url": "AS"
+},
+{
+"mention_count": 9,
+"name": "AnikaEnterprisesSA",
+"url": "AnikaEnterprisesSA"
+},
+{
+"mention_count": 9,
+"name": "Asia",
+"url": "Asia"
+},
+{
+"mention_count": 9,
+"name": "AtlassibSRL",
+"url": "AtlassibSRL"
+},
+{
+"mention_count": 9,
+"name": "Bitola",
+"url": "Bitola"
+},
+{
+"mention_count": 9,
+"name": "CostelAdrianChelariu",
+"url": "CostelAdrianChelariu"
+},
+{
+"mention_count": 9,
+"name": "ESPH",
+"url": "ESPH"
+},
+{
+"mention_count": 9,
+"name": "EnergyRegulatoryEntity",
+"url": "EnergyRegulatoryEntity"
+},
+{
+"mention_count": 9,
+"name": "Fiscalfa",
+"url": "Fiscalfa"
+},
+{
+"mention_count": 9,
+"name": "GrupoParmalat",
+"url": "GrupoParmalat"
+},
+{
+"mention_count": 9,
+"name": "International_Co-operative_Alliance",
+"url": "International_Co-operative_Alliance"
+},
+{
+"mention_count": 9,
+"name": "Law",
+"url": "Law"
+},
+{
+"mention_count": 9,
+"name": "List_of_Federal_Government_Ministries_of_Pakistan",
+"url": "List_of_Federal_Government_Ministries_of_Pakistan"
+},
+{
+"mention_count": 9,
+"name": "MDKSE",
+"url": "MDKSE"
+},
+{
+"mention_count": 9,
+"name": "Mars,_Incorporated",
+"url": "Mars,_Incorporated"
+},
+{
+"mention_count": 9,
+"name": "Monism",
+"url": "Monism"
+},
+{
+"mention_count": 9,
+"name": "Nampak",
+"url": "Nampak"
+},
+{
+"mention_count": 9,
+"name": "Porsche",
+"url": "Porsche"
+},
+{
+"mention_count": 9,
+"name": "PrimaGasAlbania",
+"url": "PrimaGasAlbania"
+},
+{
+"mention_count": 9,
+"name": "PrincipiodeRazonabilidad11",
+"url": "PrincipiodeRazonabilidad11"
+},
+{
+"mention_count": 9,
+"name": "PrincipiodeRazonabilidad14",
+"url": "PrincipiodeRazonabilidad14"
+},
+{
+"mention_count": 9,
+"name": "PrincipiodeRazonabilidad15",
+"url": "PrincipiodeRazonabilidad15"
+},
+{
+"mention_count": 9,
+"name": "PrincipiodeRazonabilidad18",
+"url": "PrincipiodeRazonabilidad18"
+},
+{
+"mention_count": 9,
+"name": "PrincipiodeRazonabilidad19",
+"url": "PrincipiodeRazonabilidad19"
+},
+{
+"mention_count": 9,
+"name": "PurchaseCommittee",
+"url": "PurchaseCommittee"
+},
+{
+"mention_count": 9,
+"name": "RaducanVasile",
+"url": "RaducanVasile"
+},
+{
+"mention_count": 9,
+"name": "ReglamentoAntidumping",
+"url": "ReglamentoAntidumping"
+},
+{
+"mention_count": 9,
+"name": "Report",
+"url": "Report"
+},
+{
+"mention_count": 9,
+"name": "Rule_Interchange_Format",
+"url": "Rule_Interchange_Format"
+},
+{
+"mention_count": 9,
+"name": "SCUniversal",
+"url": "SCUniversal"
+},
+{
+"mention_count": 9,
+"name": "SRLBucharest",
+"url": "SRLBucharest"
+},
+{
+"mention_count": 9,
+"name": "SindicatesFederation",
+"url": "SindicatesFederation"
+},
+{
+"mention_count": 9,
+"name": "SkopskiPazar",
+"url": "SkopskiPazar"
+},
+{
+"mention_count": 9,
+"name": "SotirNaumovski",
+"url": "SotirNaumovski"
+},
+{
+"mention_count": 9,
+"name": "Table_(database)",
+"url": "Table_(database)"
+},
+{
+"mention_count": 9,
+"name": "TeyTongSeng",
+"url": "TeyTongSeng"
+},
+{
+"mention_count": 9,
+"name": "The_Authority",
+"url": "The_Authority"
+},
+{
+"mention_count": 9,
+"name": "Turkey",
+"url": "Turkey"
+},
+{
+"mention_count": 8,
+"name": "AdvancedConstructionGroup",
+"url": "AdvancedConstructionGroup"
+},
+{
+"mention_count": 8,
+"name": "Agral",
+"url": "Agral"
+},
+{
+"mention_count": 8,
+"name": "All_India_Kisan_Sabha_(Ashoka_Road)",
+"url": "All_India_Kisan_Sabha_(Ashoka_Road)"
+},
+{
+"mention_count": 8,
+"name": "Armo",
+"url": "Armo"
+},
+{
+"mention_count": 8,
+"name": "AtlasCopcoGroup",
+"url": "AtlasCopcoGroup"
+},
+{
+"mention_count": 8,
+"name": "AvicolaLuminaSA",
+"url": "AvicolaLuminaSA"
+},
+{
+"mention_count": 8,
+"name": "Bare,_Morecambe",
+"url": "Bare,_Morecambe"
+},
+{
+"mention_count": 8,
+"name": "BaxterAG",
+"url": "BaxterAG"
+},
+{
+"mention_count": 8,
+"name": "BiljanaCakmakova",
+"url": "BiljanaCakmakova"
+},
+{
+"mention_count": 8,
+"name": "Caen",
+"url": "Caen"
+},
+{
+"mention_count": 8,
+"name": "CartelsMonopolies",
+"url": "CartelsMonopolies"
+},
+{
+"mention_count": 8,
+"name": "Cinepax",
+"url": "Cinepax"
+},
+{
+"mention_count": 8,
+"name": "CortedeApelacionesparaelSeptimoCircuito",
+"url": "CortedeApelacionesparaelSeptimoCircuito"
+},
+{
+"mention_count": 8,
+"name": "DecisionofthePlenumoftheCompetitionCouncil",
+"url": "DecisionofthePlenumoftheCompetitionCouncil"
+},
+{
+"mention_count": 8,
+"name": "DraftDecision",
+"url": "DraftDecision"
+},
+{
+"mention_count": 8,
+"name": "Equation_of_state",
+"url": "Equation_of_state"
+},
+{
+"mention_count": 8,
+"name": "European_Union",
+"url": "European_Union"
+},
+{
+"mention_count": 8,
+"name": "FairCompetitionAct",
+"url": "FairCompetitionAct"
+},
+{
+"mention_count": 8,
+"name": "FiscaliaNacionalEconomica",
+"url": "FiscaliaNacionalEconomica"
+},
+{
+"mention_count": 8,
+"name": "ITCC",
+"url": "ITCC"
+},
+{
+"mention_count": 8,
+"name": "Indian_Railways",
+"url": "Indian_Railways"
+},
+{
+"mention_count": 8,
+"name": "IndustryandEnergyDirectorate",
+"url": "IndustryandEnergyDirectorate"
+},
+{
+"mention_count": 8,
+"name": "InsuranceCompanies",
+"url": "InsuranceCompanies"
+},
+{
+"mention_count": 8,
+"name": "International_Civil_Aviation_Organization",
+"url": "International_Civil_Aviation_Organization"
+},
+{
+"mention_count": 8,
+"name": "International_Monetary_Fund",
+"url": "International_Monetary_Fund"
+},
+{
+"mention_count": 8,
+"name": "Karachi_Stock_Exchange",
+"url": "Karachi_Stock_Exchange"
+},
+{
+"mention_count": 8,
+"name": "Latin",
+"url": "Latin"
+},
+{
+"mention_count": 8,
+"name": "LawNo211996",
+"url": "LawNo211996"
+},
+{
+"mention_count": 8,
+"name": "Member_state_of_the_European_Union",
+"url": "Member_state_of_the_European_Union"
+},
+{
+"mention_count": 8,
+"name": "Montevideo",
+"url": "Montevideo"
+},
+{
+"mention_count": 8,
+"name": "Mounir",
+"url": "Mounir"
+},
+{
+"mention_count": 8,
+"name": "NavolSA",
+"url": "NavolSA"
+},
+{
+"mention_count": 8,
+"name": "OfficialGazetteofRomania",
+"url": "OfficialGazetteofRomania"
+},
+{
+"mention_count": 8,
+"name": "Pliva",
+"url": "Pliva"
+},
+{
+"mention_count": 8,
+"name": "Polish_Academy_of_Sciences",
+"url": "Polish_Academy_of_Sciences"
+},
+{
+"mention_count": 8,
+"name": "PrincipiodeRazonabilidad9",
+"url": "PrincipiodeRazonabilidad9"
+},
+{
+"mention_count": 8,
+"name": "PublicProcurementAgency",
+"url": "PublicProcurementAgency"
+},
+{
+"mention_count": 8,
+"name": "SCLaFourmi",
+"url": "SCLaFourmi"
+},
+{
+"mention_count": 8,
+"name": "SCRafoComConstruct",
+"url": "SCRafoComConstruct"
+},
+{
+"mention_count": 8,
+"name": "SL",
+"url": "SL"
+},
+{
+"mention_count": 8,
+"name": "SNTGN",
+"url": "SNTGN"
+},
+{
+"mention_count": 8,
+"name": "SRLSibiu",
+"url": "SRLSibiu"
+},
+{
+"mention_count": 8,
+"name": "Samn",
+"url": "Samn"
+},
+{
+"mention_count": 8,
+"name": "SecretariatGeneralofthe",
+"url": "SecretariatGeneralofthe"
+},
+{
+"mention_count": 8,
+"name": "September_21",
+"url": "September_21"
+},
+{
+"mention_count": 8,
+"name": "StateInformationResourcesCenter",
+"url": "StateInformationResourcesCenter"
+},
+{
+"mention_count": 8,
+"name": "Superintendencia_de_Salud_de_Chile",
+"url": "Superintendencia_de_Salud_de_Chile"
+},
+{
+"mention_count": 8,
+"name": "VTR_(empresa)",
+"url": "VTR_(empresa)"
+},
+{
+"mention_count": 8,
+"name": "Yap",
+"url": "Yap"
+},
+{
+"mention_count": 7,
+"name": "Air_BP",
+"url": "Air_BP"
+},
+{
+"mention_count": 7,
+"name": "American_Motors",
+"url": "American_Motors"
+},
+{
+"mention_count": 7,
+"name": "Banca_Intesa",
+"url": "Banca_Intesa"
+},
+{
+"mention_count": 7,
+"name": "Board_of_directors",
+"url": "Board_of_directors"
+},
+{
+"mention_count": 7,
+"name": "Cisco_Systems",
+"url": "Cisco_Systems"
+},
+{
+"mention_count": 7,
+"name": "ComisionNacionai",
+"url": "ComisionNacionai"
+},
+{
+"mention_count": 7,
+"name": "ComisiondeAsuntosJuridicosdelaAsambleaLegislativa",
+"url": "ComisiondeAsuntosJuridicosdelaAsambleaLegislativa"
+},
+{
+"mention_count": 7,
+"name": "Complainer",
+"url": "Complainer"
+},
+{
+"mention_count": 7,
+"name": "Constitutional_Court_of_Spain",
+"url": "Constitutional_Court_of_Spain"
+},
+{
+"mention_count": 7,
+"name": "CouncilofCompetiton",
+"url": "CouncilofCompetiton"
+},
+{
+"mention_count": 7,
+"name": "DirectorGeneraldeSoloSirkarna",
+"url": "DirectorGeneraldeSoloSirkarna"
+},
+{
+"mention_count": 7,
+"name": "Energie_AG",
+"url": "Energie_AG"
+},
+{
+"mention_count": 7,
+"name": "Entel_(Chile)",
+"url": "Entel_(Chile)"
+},
+{
+"mention_count": 7,
+"name": "Euro",
+"url": "Euro"
+},
+{
+"mention_count": 7,
+"name": "HComisionResolutiva",
+"url": "HComisionResolutiva"
+},
+{
+"mention_count": 7,
+"name": "Incident_report",
+"url": "Incident_report"
+},
+{
+"mention_count": 7,
+"name": "Internet_Explorer",
+"url": "Internet_Explorer"
+},
+{
+"mention_count": 7,
+"name": "LaPetrolifera",
+"url": "LaPetrolifera"
+},
+{
+"mention_count": 7,
+"name": "Moldova",
+"url": "Moldova"
+},
+{
+"mention_count": 7,
+"name": "Netherlands_Antilles",
+"url": "Netherlands_Antilles"
+},
+{
+"mention_count": 7,
+"name": "Noori",
+"url": "Noori"
+},
+{
+"mention_count": 7,
+"name": "Ordenanza",
+"url": "Ordenanza"
+},
+{
+"mention_count": 7,
+"name": "PESCO",
+"url": "PESCO"
+},
+{
+"mention_count": 7,
+"name": "PPPABM",
+"url": "PPPABM"
+},
+{
+"mention_count": 7,
+"name": "Pakistan",
+"url": "Pakistan"
+},
+{
+"mention_count": 7,
+"name": "PrincipiodeRazonabilidad22",
+"url": "PrincipiodeRazonabilidad22"
+},
+{
+"mention_count": 7,
+"name": "Prosperous_Justice_Party",
+"url": "Prosperous_Justice_Party"
+},
+{
+"mention_count": 7,
+"name": "Provimi",
+"url": "Provimi"
+},
+{
+"mention_count": 7,
+"name": "ReglamentoInternoRolUnicoServicioInternacionaldeTransportedePasajerosAricaTacnaArica",
+"url": "ReglamentoInternoRolUnicoServicioInternacionaldeTransportedePasajerosAricaTacnaArica"
+},
+{
+"mention_count": 7,
+"name": "RematSalajSA",
+"url": "RematSalajSA"
+},
+{
+"mention_count": 7,
+"name": "Roland_TR-808",
+"url": "Roland_TR-808"
+},
+{
+"mention_count": 7,
+"name": "SBElectronics",
+"url": "SBElectronics"
+},
+{
+"mention_count": 7,
+"name": "SRMB",
+"url": "SRMB"
+},
+{
+"mention_count": 7,
+"name": "Safran",
+"url": "Safran"
+},
+{
+"mention_count": 7,
+"name": "Secreteriat",
+"url": "Secreteriat"
+},
+{
+"mention_count": 7,
+"name": "SuperintendenciaGeneraldeEntidadesFinancieras",
+"url": "SuperintendenciaGeneraldeEntidadesFinancieras"
+},
+{
+"mention_count": 7,
+"name": "Superintendencia_Nacional_de_Administraci�n_Tributaria",
+"url": "Superintendencia_Nacional_de_Administraci�n_Tributaria"
+},
+{
+"mention_count": 7,
+"name": "UGCE",
+"url": "UGCE"
+},
+{
+"mention_count": 7,
+"name": "United_States",
+"url": "United_States"
+},
+{
+"mention_count": 6,
+"name": "AdelaRizvic",
+"url": "AdelaRizvic"
+},
+{
+"mention_count": 6,
+"name": "Ancient_Rome",
+"url": "Ancient_Rome"
+},
+{
+"mention_count": 6,
+"name": "BRDSecuritiesGroupeSocieteGeneraleSA",
+"url": "BRDSecuritiesGroupeSocieteGeneraleSA"
+},
+{
+"mention_count": 6,
+"name": "BaalbeckTourismSARL",
+"url": "BaalbeckTourismSARL"
+},
+{
+"mention_count": 6,
+"name": "Babii",
+"url": "Babii"
+},
+{
+"mention_count": 6,
+"name": "BalkanPetroleumLTD",
+"url": "BalkanPetroleumLTD"
+},
+{
+"mention_count": 6,
+"name": "Banco_Central_de_Costa_Rica",
+"url": "Banco_Central_de_Costa_Rica"
+},
+{
+"mention_count": 6,
+"name": "CRHProductsDistribution",
+"url": "CRHProductsDistribution"
+},
+{
+"mention_count": 6,
+"name": "CartaNdeg",
+"url": "CartaNdeg"
+},
+{
+"mention_count": 6,
+"name": "Catavencu",
+"url": "Catavencu"
+},
+{
+"mention_count": 6,
+"name": "ClinicalCentreofBanjaLuka",
+"url": "ClinicalCentreofBanjaLuka"
+},
+{
+"mention_count": 6,
+"name": "Colortex",
+"url": "Colortex"
+},
+{
+"mention_count": 6,
+"name": "ComisiondelaOficinaRegionaldelIndecopideCusco",
+"url": "ComisiondelaOficinaRegionaldelIndecopideCusco"
+},
+{
+"mention_count": 6,
+"name": "Confidence_interval",
+"url": "Confidence_interval"
+},
+{
+"mention_count": 6,
+"name": "DValoracion",
+"url": "DValoracion"
+},
+{
+"mention_count": 6,
+"name": "DanGrigoreAdamescu",
+"url": "DanGrigoreAdamescu"
+},
+{
+"mention_count": 6,
+"name": "DecisionoftheCompetitionCouncil",
+"url": "DecisionoftheCompetitionCouncil"
+},
+{
+"mention_count": 6,
+"name": "Decree",
+"url": "Decree"
+},
+{
+"mention_count": 6,
+"name": "Deutsche_Post",
+"url": "Deutsche_Post"
+},
+{
+"mention_count": 6,
+"name": "Digemid",
+"url": "Digemid"
+},
+{
+"mention_count": 6,
+"name": "EPCO",
+"url": "EPCO"
+},
+{
+"mention_count": 6,
+"name": "EastmanKodakHealthGroup",
+"url": "EastmanKodakHealthGroup"
+},
+{
+"mention_count": 6,
+"name": "Economy",
+"url": "Economy"
+},
+{
+"mention_count": 6,
+"name": "FICCI",
+"url": "FICCI"
+},
+{
+"mention_count": 6,
+"name": "FPC",
+"url": "FPC"
+},
+{
+"mention_count": 6,
+"name": "FluidSystems",
+"url": "FluidSystems"
+},
+{
+"mention_count": 6,
+"name": "Grup",
+"url": "Grup"
+},
+{
+"mention_count": 6,
+"name": "Gujarat",
+"url": "Gujarat"
+},
+{
+"mention_count": 6,
+"name": "HarperCollins",
+"url": "HarperCollins"
+},
+{
+"mention_count": 6,
+"name": "Hoareau",
+"url": "Hoareau"
+},
+{
+"mention_count": 6,
+"name": "IVdelTituloPreliminar5delCodigo",
+"url": "IVdelTituloPreliminar5delCodigo"
+},
+{
+"mention_count": 6,
+"name": "InformeNo73011",
+"url": "InformeNo73011"
+},
+{
+"mention_count": 6,
+"name": "IngenieroCesarHung",
+"url": "IngenieroCesarHung"
+},
+{
+"mention_count": 6,
+"name": "July_24",
+"url": "July_24"
+},
+{
+"mention_count": 6,
+"name": "LGT_Group",
+"url": "LGT_Group"
+},
+{
+"mention_count": 6,
+"name": "LedoCitlukdoo",
+"url": "LedoCitlukdoo"
+},
+{
+"mention_count": 6,
+"name": "LeyNdeg",
+"url": "LeyNdeg"
+},
+{
+"mention_count": 6,
+"name": "LeyNo7472",
+"url": "LeyNo7472"
+},
+{
+"mention_count": 6,
+"name": "MaritimeCodeoftheRepublicofAlbania",
+"url": "MaritimeCodeoftheRepublicofAlbania"
+},
+{
+"mention_count": 6,
+"name": "MileArsenic",
+"url": "MileArsenic"
+},
+{
+"mention_count": 6,
+"name": "Ministry_of_Economy,_Trade_and_Industry",
+"url": "Ministry_of_Economy,_Trade_and_Industry"
+},
+{
+"mention_count": 6,
+"name": "MittalSteelHoldings",
+"url": "MittalSteelHoldings"
+},
+{
+"mention_count": 6,
+"name": "Nichimen",
+"url": "Nichimen"
+},
+{
+"mention_count": 6,
+"name": "NovaGroupInvestmentsBV",
+"url": "NovaGroupInvestmentsBV"
+},
+{
+"mention_count": 6,
+"name": "Oasiss",
+"url": "Oasiss"
+},
+{
+"mention_count": 6,
+"name": "Pay_per_click",
+"url": "Pay_per_click"
+},
+{
+"mention_count": 6,
+"name": "PrincipiodeRazonabilidad10",
+"url": "PrincipiodeRazonabilidad10"
+},
+{
+"mention_count": 6,
+"name": "PrincipiodeRazonabilidad13",
+"url": "PrincipiodeRazonabilidad13"
+},
+{
+"mention_count": 6,
+"name": "PrincipiodeRazonabilidad16",
+"url": "PrincipiodeRazonabilidad16"
+},
+{
+"mention_count": 6,
+"name": "PrincipiodeRazonabilidad8",
+"url": "PrincipiodeRazonabilidad8"
+},
+{
+"mention_count": 6,
+"name": "ProcemaSABucuresti",
+"url": "ProcemaSABucuresti"
+},
+{
+"mention_count": 6,
+"name": "Property",
+"url": "Property"
+},
+{
+"mention_count": 6,
+"name": "RONEUR",
+"url": "RONEUR"
+},
+{
+"mention_count": 6,
+"name": "Regulatory_compliance",
+"url": "Regulatory_compliance"
+},
+{
+"mention_count": 6,
+"name": "SCDepozitarulCentral",
+"url": "SCDepozitarulCentral"
+},
+{
+"mention_count": 6,
+"name": "SRLBucuresti",
+"url": "SRLBucuresti"
+},
+{
+"mention_count": 6,
+"name": "SalePurchaseContractof26102001",
+"url": "SalePurchaseContractof26102001"
+},
+{
+"mention_count": 6,
+"name": "School",
+"url": "School"
+},
+{
+"mention_count": 6,
+"name": "SecretariaTecnicadelaComisiondelaOficinaRegionaldelIndecopideIca",
+"url": "SecretariaTecnicadelaComisiondelaOficinaRegionaldelIndecopideIca"
+},
+{
+"mention_count": 6,
+"name": "SintofarmSA",
+"url": "SintofarmSA"
+},
+{
+"mention_count": 6,
+"name": "StarStationeryPrices",
+"url": "StarStationeryPrices"
+},
+{
+"mention_count": 6,
+"name": "Subcutaneous_injection",
+"url": "Subcutaneous_injection"
+},
+{
+"mention_count": 6,
+"name": "Tercero",
+"url": "Tercero"
+},
+{
+"mention_count": 6,
+"name": "Transgaz",
+"url": "Transgaz"
+},
+{
+"mention_count": 6,
+"name": "TribunaldelIndecopi",
+"url": "TribunaldelIndecopi"
+},
+{
+"mention_count": 6,
+"name": "Trtnica",
+"url": "Trtnica"
+},
+{
+"mention_count": 6,
+"name": "Vienna",
+"url": "Vienna"
+},
+{
+"mention_count": 5,
+"name": "200s_BC_(decade)",
+"url": "200s_BC_(decade)"
+},
+{
+"mention_count": 5,
+"name": "AVNETInc",
+"url": "AVNETInc"
+},
+{
+"mention_count": 5,
+"name": "Articulo234delaLeydelProcedimientoAdministrativoGeneral",
+"url": "Articulo234delaLeydelProcedimientoAdministrativoGeneral"
+},
+{
+"mention_count": 5,
+"name": "AsociacionCamaraCostarricensedePorcicultores",
+"url": "AsociacionCamaraCostarricensedePorcicultores"
+},
+{
+"mention_count": 5,
+"name": "Banja_Luka",
+"url": "Banja_Luka"
+},
+{
+"mention_count": 5,
+"name": "Barium",
+"url": "Barium"
+},
+{
+"mention_count": 5,
+"name": "Bekaert",
+"url": "Bekaert"
+},
+{
+"mention_count": 5,
+"name": "CalimanestiCaciulata",
+"url": "CalimanestiCaciulata"
+},
+{
+"mention_count": 5,
+"name": "Chicago_Mercantile_Exchange",
+"url": "Chicago_Mercantile_Exchange"
+},
+{
+"mention_count": 5,
+"name": "ChisinauMunicipalCouncil",
+"url": "ChisinauMunicipalCouncil"
+},
+{
+"mention_count": 5,
+"name": "ComSRL",
+"url": "ComSRL"
+},
+{
+"mention_count": 5,
+"name": "Compa��a_Chilena_de_Electricidad",
+"url": "Compa��a_Chilena_de_Electricidad"
+},
+{
+"mention_count": 5,
+"name": "CounciloCompetition",
+"url": "CounciloCompetition"
+},
+{
+"mention_count": 5,
+"name": "Crowne_Plaza_Belgrade",
+"url": "Crowne_Plaza_Belgrade"
+},
+{
+"mention_count": 5,
+"name": "CustomsCode",
+"url": "CustomsCode"
+},
+{
+"mention_count": 5,
+"name": "DLF_Limited",
+"url": "DLF_Limited"
+},
+{
+"mention_count": 5,
+"name": "December_4",
+"url": "December_4"
+},
+{
+"mention_count": 5,
+"name": "Fortification",
+"url": "Fortification"
+},
+{
+"mention_count": 5,
+"name": "FrameworkAgreement",
+"url": "FrameworkAgreement"
+},
+{
+"mention_count": 5,
+"name": "George_Crumb",
+"url": "George_Crumb"
+},
+{
+"mention_count": 5,
+"name": "GruiaStoica",
+"url": "GruiaStoica"
+},
+{
+"mention_count": 5,
+"name": "IVdelTituloPreliminar8delCodigo",
+"url": "IVdelTituloPreliminar8delCodigo"
+},
+{
+"mention_count": 5,
+"name": "IfdeeodosConcluye",
+"url": "IfdeeodosConcluye"
+},
+{
+"mention_count": 5,
+"name": "In_car_entertainment",
+"url": "In_car_entertainment"
+},
+{
+"mention_count": 5,
+"name": "Inc._(magazine)",
+"url": "Inc._(magazine)"
+},
+{
+"mention_count": 5,
+"name": "July_18",
+"url": "July_18"
+},
+{
+"mention_count": 5,
+"name": "June_26",
+"url": "June_26"
+},
+{
+"mention_count": 5,
+"name": "Klagenfurt",
+"url": "Klagenfurt"
+},
+{
+"mention_count": 5,
+"name": "LNB_Pro_A",
+"url": "LNB_Pro_A"
+},
+{
+"mention_count": 5,
+"name": "LaDGM",
+"url": "LaDGM"
+},
+{
+"mention_count": 5,
+"name": "Lafarge",
+"url": "Lafarge"
+},
+{
+"mention_count": 5,
+"name": "League_of_Nations",
+"url": "League_of_Nations"
+},
+{
+"mention_count": 5,
+"name": "LeePengFo",
+"url": "LeePengFo"
+},
+{
+"mention_count": 5,
+"name": "Ley18768",
+"url": "Ley18768"
+},
+{
+"mention_count": 5,
+"name": "LeydeAviacionComercial",
+"url": "LeydeAviacionComercial"
+},
+{
+"mention_count": 5,
+"name": "Media_Key_Block",
+"url": "Media_Key_Block"
+},
+{
+"mention_count": 5,
+"name": "MetropolitanLifeofBotswana",
+"url": "MetropolitanLifeofBotswana"
+},
+{
+"mention_count": 5,
+"name": "MuresSCSimbaInvestSRLBacau",
+"url": "MuresSCSimbaInvestSRLBacau"
+},
+{
+"mention_count": 5,
+"name": "No57009de9dediciembrede2009laComision",
+"url": "No57009de9dediciembrede2009laComision"
+},
+{
+"mention_count": 5,
+"name": "Novartis",
+"url": "Novartis"
+},
+{
+"mention_count": 5,
+"name": "OIAG",
+"url": "OIAG"
+},
+{
+"mention_count": 5,
+"name": "ONENERGIEAG",
+"url": "ONENERGIEAG"
+},
+{
+"mention_count": 5,
+"name": "ProgazPDSA",
+"url": "ProgazPDSA"
+},
+{
+"mention_count": 5,
+"name": "Radical_Civic_Union",
+"url": "Radical_Civic_Union"
+},
+{
+"mention_count": 5,
+"name": "ResolucionNo23015",
+"url": "ResolucionNo23015"
+},
+{
+"mention_count": 5,
+"name": "Rio_Tinto_Group",
+"url": "Rio_Tinto_Group"
+},
+{
+"mention_count": 5,
+"name": "SCAnaHotelsSA",
+"url": "SCAnaHotelsSA"
+},
+{
+"mention_count": 5,
+"name": "SCGConsultoria",
+"url": "SCGConsultoria"
+},
+{
+"mention_count": 5,
+"name": "Seccion14delDictamen",
+"url": "Seccion14delDictamen"
+},
+{
+"mention_count": 5,
+"name": "Senten",
+"url": "Senten"
+},
+{
+"mention_count": 5,
+"name": "Sutel",
+"url": "Sutel"
+},
+{
+"mention_count": 5,
+"name": "TBIHFinancialServicesGroup",
+"url": "TBIHFinancialServicesGroup"
+},
+{
+"mention_count": 5,
+"name": "Technical_standard",
+"url": "Technical_standard"
+},
+{
+"mention_count": 5,
+"name": "Voto142010Comision",
+"url": "Voto142010Comision"
+},
+{
+"mention_count": 5,
+"name": "YuryBelov",
+"url": "YuryBelov"
+},
+{
+"mention_count": 5,
+"name": "Zalau",
+"url": "Zalau"
+},
+{
+"mention_count": 5,
+"name": "articulo196odelCodigoProcesalCivil",
+"url": "articulo196odelCodigoProcesalCivil"
+},
+{
+"mention_count": 4,
+"name": "ATEBank",
+"url": "ATEBank"
+},
+{
+"mention_count": 4,
+"name": "AgencyoftheInterventionandPaymentsinAgriculture",
+"url": "AgencyoftheInterventionandPaymentsinAgriculture"
+},
+{
+"mention_count": 4,
+"name": "Aktonline",
+"url": "Aktonline"
+},
+{
+"mention_count": 4,
+"name": "Albtelecom",
+"url": "Albtelecom"
+},
+{
+"mention_count": 4,
+"name": "Alcatel-Lucent",
+"url": "Alcatel-Lucent"
+},
+{
+"mention_count": 4,
+"name": "AliErgunErgen",
+"url": "AliErgunErgen"
+},
+{
+"mention_count": 4,
+"name": "Altadis",
+"url": "Altadis"
+},
+{
+"mention_count": 4,
+"name": "AminBrothers",
+"url": "AminBrothers"
+},
+{
+"mention_count": 4,
+"name": "Angiosperm_Phylogeny_Group",
+"url": "Angiosperm_Phylogeny_Group"
+},
+{
+"mention_count": 4,
+"name": "Anika_(musician)",
+"url": "Anika_(musician)"
+},
+{
+"mention_count": 4,
+"name": "Apafa",
+"url": "Apafa"
+},
+{
+"mention_count": 4,
+"name": "April_20",
+"url": "April_20"
+},
+{
+"mention_count": 4,
+"name": "Articulo15",
+"url": "Articulo15"
+},
+{
+"mention_count": 4,
+"name": "Banco_Popular_Espa�ol",
+"url": "Banco_Popular_Espa�ol"
+},
+{
+"mention_count": 4,
+"name": "Banco_de_Costa_Rica",
+"url": "Banco_de_Costa_Rica"
+},
+{
+"mention_count": 4,
+"name": "Bank_Austria",
+"url": "Bank_Austria"
+},
+{
+"mention_count": 4,
+"name": "Buzzi_Unicem",
+"url": "Buzzi_Unicem"
+},
+{
+"mention_count": 4,
+"name": "CELPISABucuresti",
+"url": "CELPISABucuresti"
+},
+{
+"mention_count": 4,
+"name": "CN",
+"url": "CN"
+},
+{
+"mention_count": 4,
+"name": "COMERCIALSANCOS",
+"url": "COMERCIALSANCOS"
+},
+{
+"mention_count": 4,
+"name": "CableVision",
+"url": "CableVision"
+},
+{
+"mention_count": 4,
+"name": "Central_Intelligence_Agency",
+"url": "Central_Intelligence_Agency"
+},
+{
+"mention_count": 4,
+"name": "ChimpexSA",
+"url": "ChimpexSA"
+},
+{
+"mention_count": 4,
+"name": "Civil_Aviation_Authority_(United_Kingdom)",
+"url": "Civil_Aviation_Authority_(United_Kingdom)"
+},
+{
+"mention_count": 4,
+"name": "Comisi6ndeOOPP",
+"url": "Comisi6ndeOOPP"
+},
+{
+"mention_count": 4,
+"name": "ComisionNacionaldeDefensadelaCompetencia",
+"url": "ComisionNacionaldeDefensadelaCompetencia"
+},
+{
+"mention_count": 4,
+"name": "ComisiondeFiscalizaciondeDumpingySubsidios",
+"url": "ComisiondeFiscalizaciondeDumpingySubsidios"
+},
+{
+"mention_count": 4,
+"name": "Comisi�n_Nacional_de_la_Competencia",
+"url": "Comisi�n_Nacional_de_la_Competencia"
+},
+{
+"mention_count": 4,
+"name": "CommercialRegisteroftheDistrictCourt",
+"url": "CommercialRegisteroftheDistrictCourt"
+},
+{
+"mention_count": 4,
+"name": "Commision",
+"url": "Commision"
+},
+{
+"mention_count": 4,
+"name": "CondemSA",
+"url": "CondemSA"
+},
+{
+"mention_count": 4,
+"name": "Constitution",
+"url": "Constitution"
+},
+{
+"mention_count": 4,
+"name": "Continental_Can_Company",
+"url": "Continental_Can_Company"
+},
+{
+"mention_count": 4,
+"name": "Costa_Rica",
+"url": "Costa_Rica"
+},
+{
+"mention_count": 4,
+"name": "Cubic_crystal_system",
+"url": "Cubic_crystal_system"
+},
+{
+"mention_count": 4,
+"name": "Customs",
+"url": "Customs"
+},
+{
+"mention_count": 4,
+"name": "DanielaMihaila",
+"url": "DanielaMihaila"
+},
+{
+"mention_count": 4,
+"name": "Danyaal",
+"url": "Danyaal"
+},
+{
+"mention_count": 4,
+"name": "DeterminaciondelPoderSustancialElarticulo16",
+"url": "DeterminaciondelPoderSustancialElarticulo16"
+},
+{
+"mention_count": 4,
+"name": "DireccionGeneraldeComercio",
+"url": "DireccionGeneraldeComercio"
+},
+{
+"mention_count": 4,
+"name": "Doğuş_Holding",
+"url": "Doğuş_Holding"
+},
+{
+"mention_count": 4,
+"name": "Dubica_(Bosnia-Herzegovina)",
+"url": "Dubica_(Bosnia-Herzegovina)"
+},
+{
+"mention_count": 4,
+"name": "EMIDeutschlandGmbH",
+"url": "EMIDeutschlandGmbH"
+},
+{
+"mention_count": 4,
+"name": "EconomyTradeandEnergy",
+"url": "EconomyTradeandEnergy"
+},
+{
+"mention_count": 4,
+"name": "EmpresaPortuaria",
+"url": "EmpresaPortuaria"
+},
+{
+"mention_count": 4,
+"name": "Endesa_(Spain)",
+"url": "Endesa_(Spain)"
+},
+{
+"mention_count": 4,
+"name": "England",
+"url": "England"
+},
+{
+"mention_count": 4,
+"name": "Estatuto_de_Autonom�a_de_Canarias",
+"url": "Estatuto_de_Autonom�a_de_Canarias"
+},
+{
+"mention_count": 4,
+"name": "Feria_Gastron�mica_Internacional_de_Lima",
+"url": "Feria_Gastron�mica_Internacional_de_Lima"
+},
+{
+"mention_count": 4,
+"name": "FiscalNacionalEconomico",
+"url": "FiscalNacionalEconomico"
+},
+{
+"mention_count": 4,
+"name": "FuncionamientodelasEntidadesAutorizadas",
+"url": "FuncionamientodelasEntidadesAutorizadas"
+},
+{
+"mention_count": 4,
+"name": "GECC",
+"url": "GECC"
+},
+{
+"mention_count": 4,
+"name": "GIRUETASA",
+"url": "GIRUETASA"
+},
+{
+"mention_count": 4,
+"name": "Government",
+"url": "Government"
+},
+{
+"mention_count": 4,
+"name": "GovernmentDecision",
+"url": "GovernmentDecision"
+},
+{
+"mention_count": 4,
+"name": "GrupoPorcimasSA",
+"url": "GrupoPorcimasSA"
+},
+{
+"mention_count": 4,
+"name": "HComisi6nResolutiva",
+"url": "HComisi6nResolutiva"
+},
+{
+"mention_count": 4,
+"name": "Health",
+"url": "Health"
+},
+{
+"mention_count": 4,
+"name": "Healthphar",
+"url": "Healthphar"
+},
+{
+"mention_count": 4,
+"name": "INSRepuestosVirtual",
+"url": "INSRepuestosVirtual"
+},
+{
+"mention_count": 4,
+"name": "INTFORSA",
+"url": "INTFORSA"
+},
+{
+"mention_count": 4,
+"name": "IVdelTituloPreliminar10delCodigo",
+"url": "IVdelTituloPreliminar10delCodigo"
+},
+{
+"mention_count": 4,
+"name": "IVdelTituloPreliminardelCodigo",
+"url": "IVdelTituloPreliminardelCodigo"
+},
+{
+"mention_count": 4,
+"name": "IndustryandEnergyDirection",
+"url": "IndustryandEnergyDirection"
+},
+{
+"mention_count": 4,
+"name": "International_Commission_on_Illumination",
+"url": "International_Commission_on_Illumination"
+},
+{
+"mention_count": 4,
+"name": "International_Phonetic_Alphabet",
+"url": "International_Phonetic_Alphabet"
+},
+{
+"mention_count": 4,
+"name": "KajoHallka",
+"url": "KajoHallka"
+},
+{
+"mention_count": 4,
+"name": "LaAsociacion",
+"url": "LaAsociacion"
+},
+{
+"mention_count": 4,
+"name": "LaPetroliferaItaloAlbanese",
+"url": "LaPetroliferaItaloAlbanese"
+},
+{
+"mention_count": 4,
+"name": "Ley18455",
+"url": "Ley18455"
+},
+{
+"mention_count": 4,
+"name": "LeyN",
+"url": "LeyN"
+},
+{
+"mention_count": 4,
+"name": "LeydeDefensadeiaCompetencia",
+"url": "LeydeDefensadeiaCompetencia"
+},
+{
+"mention_count": 4,
+"name": "London_Stock_Exchange",
+"url": "London_Stock_Exchange"
+},
+{
+"mention_count": 4,
+"name": "ManagingBoardofRioTinto",
+"url": "ManagingBoardofRioTinto"
+},
+{
+"mention_count": 4,
+"name": "ManagingDirectorsofKannus",
+"url": "ManagingDirectorsofKannus"
+},
+{
+"mention_count": 4,
+"name": "May_26",
+"url": "May_26"
+},
+{
+"mention_count": 4,
+"name": "Ministerio_de_Fomento",
+"url": "Ministerio_de_Fomento"
+},
+{
+"mention_count": 4,
+"name": "MinisteriodeEducacion",
+"url": "MinisteriodeEducacion"
+},
+{
+"mention_count": 4,
+"name": "Ministry_(government_department)",
+"url": "Ministry_(government_department)"
+},
+{
+"mention_count": 4,
+"name": "Mitsui",
+"url": "Mitsui"
+},
+{
+"mention_count": 4,
+"name": "NACHTWACHEAcquisitionGmbH",
+"url": "NACHTWACHEAcquisitionGmbH"
+},
+{
+"mention_count": 4,
+"name": "National_Radical_Union",
+"url": "National_Radical_Union"
+},
+{
+"mention_count": 4,
+"name": "No7012",
+"url": "No7012"
+},
+{
+"mention_count": 4,
+"name": "Norma_jur�dica",
+"url": "Norma_jur�dica"
+},
+{
+"mention_count": 4,
+"name": "Opposite",
+"url": "Opposite"
+},
+{
+"mention_count": 4,
+"name": "Order_of_the_Tower_and_Sword",
+"url": "Order_of_the_Tower_and_Sword"
+},
+{
+"mention_count": 4,
+"name": "OrganoDirector",
+"url": "OrganoDirector"
+},
+{
+"mention_count": 4,
+"name": "PORTANTOSe",
+"url": "PORTANTOSe"
+},
+{
+"mention_count": 4,
+"name": "Pablo_Serra",
+"url": "Pablo_Serra"
+},
+{
+"mention_count": 4,
+"name": "Petromidia_Refinery",
+"url": "Petromidia_Refinery"
+},
+{
+"mention_count": 4,
+"name": "Pfizer",
+"url": "Pfizer"
+},
+{
+"mention_count": 4,
+"name": "PoderPanadero",
+"url": "PoderPanadero"
+},
+{
+"mention_count": 4,
+"name": "PrincipiodeRazonabilidad5",
+"url": "PrincipiodeRazonabilidad5"
+},
+{
+"mention_count": 4,
+"name": "RafoSA",
+"url": "RafoSA"
+},
+{
+"mention_count": 4,
+"name": "Raiffeisen_Zentralbank",
+"url": "Raiffeisen_Zentralbank"
+},
+{
+"mention_count": 4,
+"name": "Romgaz",
+"url": "Romgaz"
+},
+{
+"mention_count": 4,
+"name": "Royal_Statistical_Society",
+"url": "Royal_Statistical_Society"
+},
+{
+"mention_count": 4,
+"name": "SCArtimaRetailInvestmentCompanySA",
+"url": "SCArtimaRetailInvestmentCompanySA"
+},
+{
+"mention_count": 4,
+"name": "SCKraftFoodsRomania",
+"url": "SCKraftFoodsRomania"
+},
+{
+"mention_count": 4,
+"name": "SCL",
+"url": "SCL"
+},
+{
+"mention_count": 4,
+"name": "SCOlanestiRivieraSA",
+"url": "SCOlanestiRivieraSA"
+},
+{
+"mention_count": 4,
+"name": "SCOltchimSA",
+"url": "SCOltchimSA"
+},
+{
+"mention_count": 4,
+"name": "SIATSA",
+"url": "SIATSA"
+},
+{
+"mention_count": 4,
+"name": "SUGESE",
+"url": "SUGESE"
+},
+{
+"mention_count": 4,
+"name": "SWISSPORHOLDINGAGSwitzerland",
+"url": "SWISSPORHOLDINGAGSwitzerland"
+},
+{
+"mention_count": 4,
+"name": "SahinpasicAlmir",
+"url": "SahinpasicAlmir"
+},
+{
+"mention_count": 4,
+"name": "SecretariaTecnicadelaComision",
+"url": "SecretariaTecnicadelaComision"
+},
+{
+"mention_count": 4,
+"name": "Sentlencia",
+"url": "Sentlencia"
+},
+{
+"mention_count": 4,
+"name": "Se�or",
+"url": "Se�or"
+},
+{
+"mention_count": 4,
+"name": "SharesSale",
+"url": "SharesSale"
+},
+{
+"mention_count": 4,
+"name": "Single-nucleotide_polymorphism",
+"url": "Single-nucleotide_polymorphism"
+},
+{
+"mention_count": 4,
+"name": "SrRafaelEcheverriaBascunan",
+"url": "SrRafaelEcheverriaBascunan"
+},
+{
+"mention_count": 4,
+"name": "StandingLinkageCommittee",
+"url": "StandingLinkageCommittee"
+},
+{
+"mention_count": 4,
+"name": "State_court_(United_States)",
+"url": "State_court_(United_States)"
+},
+{
+"mention_count": 4,
+"name": "Subsecretar�a_de_Telecomunicaciones_de_Chile",
+"url": "Subsecretar�a_de_Telecomunicaciones_de_Chile"
+},
+{
+"mention_count": 4,
+"name": "Supreme_Court_of_Justice_of_Costa_Rica",
+"url": "Supreme_Court_of_Justice_of_Costa_Rica"
+},
+{
+"mention_count": 4,
+"name": "Supreme_Court_of_the_United_States",
+"url": "Supreme_Court_of_the_United_States"
+},
+{
+"mention_count": 4,
+"name": "TELECABLE",
+"url": "TELECABLE"
+},
+{
+"mention_count": 4,
+"name": "TELECABLELaSUTEL",
+"url": "TELECABLELaSUTEL"
+},
+{
+"mention_count": 4,
+"name": "TERCERO",
+"url": "TERCERO"
+},
+{
+"mention_count": 4,
+"name": "Thai_Premier_League",
+"url": "Thai_Premier_League"
+},
+{
+"mention_count": 4,
+"name": "TheAgencyoftheInterventionandPaymentsinAgriculture",
+"url": "TheAgencyoftheInterventionandPaymentsinAgriculture"
+},
+{
+"mention_count": 4,
+"name": "TradeRegisterOffice",
+"url": "TradeRegisterOffice"
+},
+{
+"mention_count": 4,
+"name": "User_interface",
+"url": "User_interface"
+},
+{
+"mention_count": 4,
+"name": "VFKomerc",
+"url": "VFKomerc"
+},
+{
+"mention_count": 4,
+"name": "Voestalpine",
+"url": "Voestalpine"
+},
+{
+"mention_count": 4,
+"name": "VotoNdeg152015",
+"url": "VotoNdeg152015"
+},
+{
+"mention_count": 4,
+"name": "articulo188odelaLeyNo27444",
+"url": "articulo188odelaLeyNo27444"
+},
+{
+"mention_count": 3,
+"name": "AUSTRALSA",
+"url": "AUSTRALSA"
+},
+{
+"mention_count": 3,
+"name": "Academia_General_del_Aire",
+"url": "Academia_General_del_Aire"
+},
+{
+"mention_count": 3,
+"name": "Aegis_Group",
+"url": "Aegis_Group"
+},
+{
+"mention_count": 3,
+"name": "Albanian_Airlines",
+"url": "Albanian_Airlines"
+},
+{
+"mention_count": 3,
+"name": "Altex_(Romania)",
+"url": "Altex_(Romania)"
+},
+{
+"mention_count": 3,
+"name": "Amstrad_CPC",
+"url": "Amstrad_CPC"
+},
+{
+"mention_count": 3,
+"name": "Anheuser",
+"url": "Anheuser"
+},
+{
+"mention_count": 3,
+"name": "Asociacionsenalo",
+"url": "Asociacionsenalo"
+},
+{
+"mention_count": 3,
+"name": "AuthorisedStateBody",
+"url": "AuthorisedStateBody"
+},
+{
+"mention_count": 3,
+"name": "BEGAGROUP",
+"url": "BEGAGROUP"
+},
+{
+"mention_count": 3,
+"name": "BRDSecuritiesGroupeSocieteGeneraleSABucharest",
+"url": "BRDSecuritiesGroupeSocieteGeneraleSABucharest"
+},
+{
+"mention_count": 3,
+"name": "BRUGGERTHOMET",
+"url": "BRUGGERTHOMET"
+},
+{
+"mention_count": 3,
+"name": "Banco_de_la_Naci�n_Argentina",
+"url": "Banco_de_la_Naci�n_Argentina"
+},
+{
+"mention_count": 3,
+"name": "Bhais",
+"url": "Bhais"
+},
+{
+"mention_count": 3,
+"name": "CConsidera",
+"url": "CConsidera"
+},
+{
+"mention_count": 3,
+"name": "CENEMariaMolinari",
+"url": "CENEMariaMolinari"
+},
+{
+"mention_count": 3,
+"name": "CERAMICASA",
+"url": "CERAMICASA"
+},
+{
+"mention_count": 3,
+"name": "CFA_Institute",
+"url": "CFA_Institute"
+},
+{
+"mention_count": 3,
+"name": "CMACTRUJILLO",
+"url": "CMACTRUJILLO"
+},
+{
+"mention_count": 3,
+"name": "CREDIQ",
+"url": "CREDIQ"
+},
+{
+"mention_count": 3,
+"name": "CajadeJubilacionesyPensionesdeProfesionalesUniversitarios",
+"url": "CajadeJubilacionesyPensionesdeProfesionalesUniversitarios"
+},
+{
+"mention_count": 3,
+"name": "CantonalCourt",
+"url": "CantonalCourt"
+},
+{
+"mention_count": 3,
+"name": "Cencosud",
+"url": "Cencosud"
+},
+{
+"mention_count": 3,
+"name": "Central_America",
+"url": "Central_America"
+},
+{
+"mention_count": 3,
+"name": "CentrodeNavegacion",
+"url": "CentrodeNavegacion"
+},
+{
+"mention_count": 3,
+"name": "ChamberofCommerceofMacedonia",
+"url": "ChamberofCommerceofMacedonia"
+},
+{
+"mention_count": 3,
+"name": "Chartered_Financial_Analyst",
+"url": "Chartered_Financial_Analyst"
+},
+{
+"mention_count": 3,
+"name": "Chondroitinum",
+"url": "Chondroitinum"
+},
+{
+"mention_count": 3,
+"name": "ColegioElParaiso",
+"url": "ColegioElParaiso"
+},
+{
+"mention_count": 3,
+"name": "ColegioEmmiPikler",
+"url": "ColegioEmmiPikler"
+},
+{
+"mention_count": 3,
+"name": "Comision",
+"url": "Comision"
+},
+{
+"mention_count": 3,
+"name": "ComisionPermanentedeAsuntosJuridicosdelaAsambleaLegislativa",
+"url": "ComisionPermanentedeAsuntosJuridicosdelaAsambleaLegislativa"
+},
+{
+"mention_count": 3,
+"name": "ComisiondeEliminaciondeBarrerasBurocraticas",
+"url": "ComisiondeEliminaciondeBarrerasBurocraticas"
+},
+{
+"mention_count": 3,
+"name": "ComisiondeExpertos",
+"url": "ComisiondeExpertos"
+},
+{
+"mention_count": 3,
+"name": "Compendium",
+"url": "Compendium"
+},
+{
+"mention_count": 3,
+"name": "CompetitionUnit",
+"url": "CompetitionUnit"
+},
+{
+"mention_count": 3,
+"name": "ConcessionLaw1",
+"url": "ConcessionLaw1"
+},
+{
+"mention_count": 3,
+"name": "ConsiderandoTrigesimoTercero",
+"url": "ConsiderandoTrigesimoTercero"
+},
+{
+"mention_count": 3,
+"name": "ConstitucionPoliticadelaRepublicadeCostaRica",
+"url": "ConstitucionPoliticadelaRepublicadeCostaRica"
+},
+{
+"mention_count": 3,
+"name": "CristinaBrinzanLawOffice",
+"url": "CristinaBrinzanLawOffice"
+},
+{
+"mention_count": 3,
+"name": "CuadroNdegXIII",
+"url": "CuadroNdegXIII"
+},
+{
+"mention_count": 3,
+"name": "DCMNo",
+"url": "DCMNo"
+},
+{
+"mention_count": 3,
+"name": "DecretoLeyNdeg211",
+"url": "DecretoLeyNdeg211"
+},
+{
+"mention_count": 3,
+"name": "Digital_television",
+"url": "Digital_television"
+},
+{
+"mention_count": 3,
+"name": "DireccionGeneraldeAdministraciondeBienes",
+"url": "DireccionGeneraldeAdministraciondeBienes"
+},
+{
+"mention_count": 3,
+"name": "DivisiOn",
+"url": "DivisiOn"
+},
+{
+"mention_count": 3,
+"name": "Doboj",
+"url": "Doboj"
+},
+{
+"mention_count": 3,
+"name": "ELBAHOLDLtd",
+"url": "ELBAHOLDLtd"
+},
+{
+"mention_count": 3,
+"name": "EjecutoriedaddelosActosAdministrativosElarticulo1461delaLeyGeneraldelaAdministracionPublica",
+"url": "EjecutoriedaddelosActosAdministrativosElarticulo1461delaLeyGeneraldelaAdministracionPublica"
+},
+{
+"mention_count": 3,
+"name": "Elarticulo1461",
+"url": "Elarticulo1461"
+},
+{
+"mention_count": 3,
+"name": "Elarticulo345",
+"url": "Elarticulo345"
+},
+{
+"mention_count": 3,
+"name": "EnergyRegulatoryCommission",
+"url": "EnergyRegulatoryCommission"
+},
+{
+"mention_count": 3,
+"name": "EnquiryCommittee",
+"url": "EnquiryCommittee"
+},
+{
+"mention_count": 3,
+"name": "EuropetrolSG",
+"url": "EuropetrolSG"
+},
+{
+"mention_count": 3,
+"name": "FlaroSAsManagementBoard",
+"url": "FlaroSAsManagementBoard"
+},
+{
+"mention_count": 3,
+"name": "FuenteDatosaportadosporlosagentesAdemas",
+"url": "FuenteDatosaportadosporlosagentesAdemas"
+},
+{
+"mention_count": 3,
+"name": "GEECL",
+"url": "GEECL"
+},
+{
+"mention_count": 3,
+"name": "Gambling",
+"url": "Gambling"
+},
+{
+"mention_count": 3,
+"name": "Grisolia",
+"url": "Grisolia"
+},
+{
+"mention_count": 3,
+"name": "Groupe_Danone",
+"url": "Groupe_Danone"
+},
+{
+"mention_count": 3,
+"name": "HellenicPetroleumSA",
+"url": "HellenicPetroleumSA"
+},
+{
+"mention_count": 3,
+"name": "Hellenic_Capital_Market_Commission",
+"url": "Hellenic_Capital_Market_Commission"
+},
+{
+"mention_count": 3,
+"name": "Hoffmann-La_Roche",
+"url": "Hoffmann-La_Roche"
+},
+{
+"mention_count": 3,
+"name": "ICCYC",
+"url": "ICCYC"
+},
+{
+"mention_count": 3,
+"name": "IICE",
+"url": "IICE"
+},
+{
+"mention_count": 3,
+"name": "IMunicipalidaddeSanBernardo",
+"url": "IMunicipalidaddeSanBernardo"
+},
+{
+"mention_count": 3,
+"name": "IndustriaLacteaSaltenaSA",
+"url": "IndustriaLacteaSaltenaSA"
+},
+{
+"mention_count": 3,
+"name": "Institute_of_Chartered_Accountants_of_India",
+"url": "Institute_of_Chartered_Accountants_of_India"
+},
+{
+"mention_count": 3,
+"name": "Institute_of_Chartered_Financial_Analysts_of_India",
+"url": "Institute_of_Chartered_Financial_Analysts_of_India"
+},
+{
+"mention_count": 3,
+"name": "Internet_Engineering_Task_Force",
+"url": "Internet_Engineering_Task_Force"
+},
+{
+"mention_count": 3,
+"name": "Intesis",
+"url": "Intesis"
+},
+{
+"mention_count": 3,
+"name": "IodelaLeyNo29158",
+"url": "IodelaLeyNo29158"
+},
+{
+"mention_count": 3,
+"name": "Ion_selective_electrode",
+"url": "Ion_selective_electrode"
+},
+{
+"mention_count": 3,
+"name": "ItalianAlbanianBank",
+"url": "ItalianAlbanianBank"
+},
+{
+"mention_count": 3,
+"name": "Ita�_Unibanco",
+"url": "Ita�_Unibanco"
+},
+{
+"mention_count": 3,
+"name": "Jimuadu",
+"url": "Jimuadu"
+},
+{
+"mention_count": 3,
+"name": "KPOINCSA",
+"url": "KPOINCSA"
+},
+{
+"mention_count": 3,
+"name": "KraftFoodsRomania",
+"url": "KraftFoodsRomania"
+},
+{
+"mention_count": 3,
+"name": "LasEscuelasdeConductores",
+"url": "LasEscuelasdeConductores"
+},
+{
+"mention_count": 3,
+"name": "LawNo",
+"url": "LawNo"
+},
+{
+"mention_count": 3,
+"name": "LawOnElectricalEnergySector",
+"url": "LawOnElectricalEnergySector"
+},
+{
+"mention_count": 3,
+"name": "Leniuc",
+"url": "Leniuc"
+},
+{
+"mention_count": 3,
+"name": "Ley26549",
+"url": "Ley26549"
+},
+{
+"mention_count": 3,
+"name": "LeyGeneraldeAdministracionPublica",
+"url": "LeyGeneraldeAdministracionPublica"
+},
+{
+"mention_count": 3,
+"name": "Lobelia",
+"url": "Lobelia"
+},
+{
+"mention_count": 3,
+"name": "LosCentrosyProgramasEducativos",
+"url": "LosCentrosyProgramasEducativos"
+},
+{
+"mention_count": 3,
+"name": "MAp",
+"url": "MAp"
+},
+{
+"mention_count": 3,
+"name": "MatelGroup",
+"url": "MatelGroup"
+},
+{
+"mention_count": 3,
+"name": "MoH",
+"url": "MoH"
+},
+{
+"mention_count": 3,
+"name": "MonitoringCommittee",
+"url": "MonitoringCommittee"
+},
+{
+"mention_count": 3,
+"name": "NESTLE",
+"url": "NESTLE"
+},
+{
+"mention_count": 3,
+"name": "NalaniVenturesLimited",
+"url": "NalaniVenturesLimited"
+},
+{
+"mention_count": 3,
+"name": "NewCo",
+"url": "NewCo"
+},
+{
+"mention_count": 3,
+"name": "No14015",
+"url": "No14015"
+},
+{
+"mention_count": 3,
+"name": "No23015",
+"url": "No23015"
+},
+{
+"mention_count": 3,
+"name": "Omniasig",
+"url": "Omniasig"
+},
+{
+"mention_count": 3,
+"name": "Organization",
+"url": "Organization"
+},
+{
+"mention_count": 3,
+"name": "Party_(law)",
+"url": "Party_(law)"
+},
+{
+"mention_count": 3,
+"name": "Personal_protective_equipment",
+"url": "Personal_protective_equipment"
+},
+{
+"mention_count": 3,
+"name": "Plauintiff",
+"url": "Plauintiff"
+},
+{
+"mention_count": 3,
+"name": "PrimLLC",
+"url": "PrimLLC"
+},
+{
+"mention_count": 3,
+"name": "PrincipiodeRazonabilidad21",
+"url": "PrincipiodeRazonabilidad21"
+},
+{
+"mention_count": 3,
+"name": "PrincipiodeRazonabilidad25",
+"url": "PrincipiodeRazonabilidad25"
+},
+{
+"mention_count": 3,
+"name": "Prosecutor",
+"url": "Prosecutor"
+},
+{
+"mention_count": 3,
+"name": "Pucioasa",
+"url": "Pucioasa"
+},
+{
+"mention_count": 3,
+"name": "RaiffeisenLeasingInternationalGesellschaft",
+"url": "RaiffeisenLeasingInternationalGesellschaft"
+},
+{
+"mention_count": 3,
+"name": "RaiffesenInternationalBankHoldingAG",
+"url": "RaiffesenInternationalBankHoldingAG"
+},
+{
+"mention_count": 3,
+"name": "ReceivingParty",
+"url": "ReceivingParty"
+},
+{
+"mention_count": 3,
+"name": "Registro4deImportadoresNoRegistrantes",
+"url": "Registro4deImportadoresNoRegistrantes"
+},
+{
+"mention_count": 3,
+"name": "ReglamentoparalaPrestaciondeServiciosdeCorresponsalesBNServicios",
+"url": "ReglamentoparalaPrestaciondeServiciosdeCorresponsalesBNServicios"
+},
+{
+"mention_count": 3,
+"name": "ReglamentosobrelaApertura",
+"url": "ReglamentosobrelaApertura"
+},
+{
+"mention_count": 3,
+"name": "Relad",
+"url": "Relad"
+},
+{
+"mention_count": 3,
+"name": "RematholdingCo",
+"url": "RematholdingCo"
+},
+{
+"mention_count": 3,
+"name": "RequisitosdeAdmisibilidadLosarticulos285",
+"url": "RequisitosdeAdmisibilidadLosarticulos285"
+},
+{
+"mention_count": 3,
+"name": "Resolucion",
+"url": "Resolucion"
+},
+{
+"mention_count": 3,
+"name": "ResolucionNdeg51974",
+"url": "ResolucionNdeg51974"
+},
+{
+"mention_count": 3,
+"name": "ResolucionNo242012",
+"url": "ResolucionNo242012"
+},
+{
+"mention_count": 3,
+"name": "ResolucionNo653",
+"url": "ResolucionNo653"
+},
+{
+"mention_count": 3,
+"name": "ResolucionNo98015",
+"url": "ResolucionNo98015"
+},
+{
+"mention_count": 3,
+"name": "ResolucionesNdeg5",
+"url": "ResolucionesNdeg5"
+},
+{
+"mention_count": 3,
+"name": "RomanianCompetitionAuthority",
+"url": "RomanianCompetitionAuthority"
+},
+{
+"mention_count": 3,
+"name": "SBS_Broadcasting_Group",
+"url": "SBS_Broadcasting_Group"
+},
+{
+"mention_count": 3,
+"name": "SCEgisSRL",
+"url": "SCEgisSRL"
+},
+{
+"mention_count": 3,
+"name": "Salans",
+"url": "Salans"
+},
+{
+"mention_count": 3,
+"name": "SantaIsabelSA",
+"url": "SantaIsabelSA"
+},
+{
+"mention_count": 3,
+"name": "Sauer_&_Sohn",
+"url": "Sauer_&_Sohn"
+},
+{
+"mention_count": 3,
+"name": "SecretariatoftheCompetitionCouncil",
+"url": "SecretariatoftheCompetitionCouncil"
+},
+{
+"mention_count": 3,
+"name": "SecumplePrevencionbajoProtesta",
+"url": "SecumplePrevencionbajoProtesta"
+},
+{
+"mention_count": 3,
+"name": "ShareSalePurchaseAgreement",
+"url": "ShareSalePurchaseAgreement"
+},
+{
+"mention_count": 3,
+"name": "Sierra_de_Camara",
+"url": "Sierra_de_Camara"
+},
+{
+"mention_count": 3,
+"name": "Soundtrack",
+"url": "Soundtrack"
+},
+{
+"mention_count": 3,
+"name": "Stoica",
+"url": "Stoica"
+},
+{
+"mention_count": 3,
+"name": "SubsecretariodeTelecomunicaciones",
+"url": "SubsecretariodeTelecomunicaciones"
+},
+{
+"mention_count": 3,
+"name": "Telef�nica",
+"url": "Telef�nica"
+},
+{
+"mention_count": 3,
+"name": "The_Notorious_B.I.G.",
+"url": "The_Notorious_B.I.G."
+},
+{
+"mention_count": 3,
+"name": "TituloIXdelReglamentoInterno",
+"url": "TituloIXdelReglamentoInterno"
+},
+{
+"mention_count": 3,
+"name": "Transport",
+"url": "Transport"
+},
+{
+"mention_count": 3,
+"name": "TribunalContenciosoAdministrativo",
+"url": "TribunalContenciosoAdministrativo"
+},
+{
+"mention_count": 3,
+"name": "Velpro",
+"url": "Velpro"
+},
+{
+"mention_count": 3,
+"name": "ViajesColon",
+"url": "ViajesColon"
+},
+{
+"mention_count": 3,
+"name": "Viator",
+"url": "Viator"
+},
+{
+"mention_count": 3,
+"name": "Vogosca",
+"url": "Vogosca"
+},
+{
+"mention_count": 3,
+"name": "XIdedichodecretoelGobierno",
+"url": "XIdedichodecretoelGobierno"
+},
+{
+"mention_count": 3,
+"name": "YORKINTERNATIONALCORPORATION",
+"url": "YORKINTERNATIONALCORPORATION"
+},
+{
+"mention_count": 3,
+"name": "YPFGasSA",
+"url": "YPFGasSA"
+},
+{
+"mention_count": 2,
+"name": "8EsteConvenioConstitutivo",
+"url": "8EsteConvenioConstitutivo"
+},
+{
+"mention_count": 2,
+"name": "ADVENTINTERNATIONALCORPORATIONUSAandCARLYLEGROUPUSA",
+"url": "ADVENTINTERNATIONALCORPORATIONUSAandCARLYLEGROUPUSA"
+},
+{
+"mention_count": 2,
+"name": "AMResorts",
+"url": "AMResorts"
+},
+{
+"mention_count": 2,
+"name": "Administraci�n_p�blica",
+"url": "Administraci�n_p�blica"
+},
+{
+"mention_count": 2,
+"name": "AdriaFerries",
+"url": "AdriaFerries"
+},
+{
+"mention_count": 2,
+"name": "Albanian_lek",
+"url": "Albanian_lek"
+},
+{
+"mention_count": 2,
+"name": "Albrau",
+"url": "Albrau"
+},
+{
+"mention_count": 2,
+"name": "Anna_Maria_Mozart",
+"url": "Anna_Maria_Mozart"
+},
+{
+"mention_count": 2,
+"name": "Art",
+"url": "Art"
+},
+{
+"mention_count": 2,
+"name": "Artificial_intelligence",
+"url": "Artificial_intelligence"
+},
+{
+"mention_count": 2,
+"name": "Asociacion",
+"url": "Asociacion"
+},
+{
+"mention_count": 2,
+"name": "Atlas",
+"url": "Atlas"
+},
+{
+"mention_count": 2,
+"name": "Atlas_Corporation",
+"url": "Atlas_Corporation"
+},
+{
+"mention_count": 2,
+"name": "Austria",
+"url": "Austria"
+},
+{
+"mention_count": 2,
+"name": "BanjaLukaNLBGroup",
+"url": "BanjaLukaNLBGroup"
+},
+{
+"mention_count": 2,
+"name": "BilperSA",
+"url": "BilperSA"
+},
+{
+"mention_count": 2,
+"name": "BraziSRL",
+"url": "BraziSRL"
+},
+{
+"mention_count": 2,
+"name": "BritishPlasterBoardplcEngland",
+"url": "BritishPlasterBoardplcEngland"
+},
+{
+"mention_count": 2,
+"name": "CCF",
+"url": "CCF"
+},
+{
+"mention_count": 2,
+"name": "CEFACENTRALFARMACEUTICASA",
+"url": "CEFACENTRALFARMACEUTICASA"
+},
+{
+"mention_count": 2,
+"name": "CODIGODEPROTECCIONYDEFENSADELCONSUMIDORArticulo75",
+"url": "CODIGODEPROTECCIONYDEFENSADELCONSUMIDORArticulo75"
+},
+{
+"mention_count": 2,
+"name": "COMISIONNACIONALDEDEFENSADELACOMPETENCE",
+"url": "COMISIONNACIONALDEDEFENSADELACOMPETENCE"
+},
+{
+"mention_count": 2,
+"name": "COMISIONNACIONALDEDEFENSADELACOMPETENCIA",
+"url": "COMISIONNACIONALDEDEFENSADELACOMPETENCIA"
+},
+{
+"mention_count": 2,
+"name": "Cathode_ray_tube",
+"url": "Cathode_ray_tube"
+},
+{
+"mention_count": 2,
+"name": "CeloxSALuxemburg",
+"url": "CeloxSALuxemburg"
+},
+{
+"mention_count": 2,
+"name": "Central_Bank_of_Chile",
+"url": "Central_Bank_of_Chile"
+},
+{
+"mention_count": 2,
+"name": "Cetel",
+"url": "Cetel"
+},
+{
+"mention_count": 2,
+"name": "CheongYunMeng",
+"url": "CheongYunMeng"
+},
+{
+"mention_count": 2,
+"name": "Cluj-Napoca",
+"url": "Cluj-Napoca"
+},
+{
+"mention_count": 2,
+"name": "ClujEmergencyCountyHospital",
+"url": "ClujEmergencyCountyHospital"
+},
+{
+"mention_count": 2,
+"name": "Code_of_Federal_Regulations",
+"url": "Code_of_Federal_Regulations"
+},
+{
+"mention_count": 2,
+"name": "ColegioAlbertEinstein",
+"url": "ColegioAlbertEinstein"
+},
+{
+"mention_count": 2,
+"name": "ColegioReconciliacion",
+"url": "ColegioReconciliacion"
+},
+{
+"mention_count": 2,
+"name": "Comision7",
+"url": "Comision7"
+},
+{
+"mention_count": 2,
+"name": "Commercial_Court_(Belgium)",
+"url": "Commercial_Court_(Belgium)"
+},
+{
+"mention_count": 2,
+"name": "Committee",
+"url": "Committee"
+},
+{
+"mention_count": 2,
+"name": "CompendiodeNormasAduaneras",
+"url": "CompendiodeNormasAduaneras"
+},
+{
+"mention_count": 2,
+"name": "CompetitionCommissionofPakistan",
+"url": "CompetitionCommissionofPakistan"
+},
+{
+"mention_count": 2,
+"name": "CompetitionDepartment",
+"url": "CompetitionDepartment"
+},
+{
+"mention_count": 2,
+"name": "CompetitionLawno211996",
+"url": "CompetitionLawno211996"
+},
+{
+"mention_count": 2,
+"name": "ContractingAuthority",
+"url": "ContractingAuthority"
+},
+{
+"mention_count": 2,
+"name": "ConvenioConstitutivo",
+"url": "ConvenioConstitutivo"
+},
+{
+"mention_count": 2,
+"name": "Cormsion",
+"url": "Cormsion"
+},
+{
+"mention_count": 2,
+"name": "Costa1Rica",
+"url": "Costa1Rica"
+},
+{
+"mention_count": 2,
+"name": "Council_house",
+"url": "Council_house"
+},
+{
+"mention_count": 2,
+"name": "CouncilnofCompetition",
+"url": "CouncilnofCompetition"
+},
+{
+"mention_count": 2,
+"name": "CrediScotia",
+"url": "CrediScotia"
+},
+{
+"mention_count": 2,
+"name": "DIGEMID",
+"url": "DIGEMID"
+},
+{
+"mention_count": 2,
+"name": "DL807",
+"url": "DL807"
+},
+{
+"mention_count": 2,
+"name": "DMS",
+"url": "DMS"
+},
+{
+"mention_count": 2,
+"name": "December_17",
+"url": "December_17"
+},
+{
+"mention_count": 2,
+"name": "DecretoEjecutivo",
+"url": "DecretoEjecutivo"
+},
+{
+"mention_count": 2,
+"name": "DecretoLegislativoNo776",
+"url": "DecretoLegislativoNo776"
+},
+{
+"mention_count": 2,
+"name": "DecretoLeyNo25868",
+"url": "DecretoLeyNo25868"
+},
+{
+"mention_count": 2,
+"name": "DecretoSupremoNo0062003PCM",
+"url": "DecretoSupremoNo0062003PCM"
+},
+{
+"mention_count": 2,
+"name": "DecretoSupremoNo0402008MTC",
+"url": "DecretoSupremoNo0402008MTC"
+},
+{
+"mention_count": 2,
+"name": "Diccionario_de_la_lengua_espa�ola_de_la_Real_Academia_Espa�ola",
+"url": "Diccionario_de_la_lengua_espa�ola_de_la_Real_Academia_Espa�ola"
+},
+{
+"mention_count": 2,
+"name": "DoughtyHansonCo",
+"url": "DoughtyHansonCo"
+},
+{
+"mention_count": 2,
+"name": "Dresdner-Cetelem_Kreditbank_GmbH",
+"url": "Dresdner-Cetelem_Kreditbank_GmbH"
+},
+{
+"mention_count": 2,
+"name": "Elarticulo16",
+"url": "Elarticulo16"
+},
+{
+"mention_count": 2,
+"name": "Emisor",
+"url": "Emisor"
+},
+{
+"mention_count": 2,
+"name": "European_Patent_Convention",
+"url": "European_Patent_Convention"
+},
+{
+"mention_count": 2,
+"name": "Expediente2632014CC2SIA",
+"url": "Expediente2632014CC2SIA"
+},
+{
+"mention_count": 2,
+"name": "FORNETTI",
+"url": "FORNETTI"
+},
+{
+"mention_count": 2,
+"name": "FaisalShaji",
+"url": "FaisalShaji"
+},
+{
+"mention_count": 2,
+"name": "February_19",
+"url": "February_19"
+},
+{
+"mention_count": 2,
+"name": "FineCouncilofCompetition",
+"url": "FineCouncilofCompetition"
+},
+{
+"mention_count": 2,
+"name": "Fiscalla",
+"url": "Fiscalla"
+},
+{
+"mention_count": 2,
+"name": "Foliteck",
+"url": "Foliteck"
+},
+{
+"mention_count": 2,
+"name": "FournierPharmaRomania",
+"url": "FournierPharmaRomania"
+},
+{
+"mention_count": 2,
+"name": "Gacko",
+"url": "Gacko"
+},
+{
+"mention_count": 2,
+"name": "Gasoil",
+"url": "Gasoil"
+},
+{
+"mention_count": 2,
+"name": "GeneralSecretariatandIndustryandEnergyDirectorate",
+"url": "GeneralSecretariatandIndustryandEnergyDirectorate"
+},
+{
+"mention_count": 2,
+"name": "GlaxoSmithKline",
+"url": "GlaxoSmithKline"
+},
+{
+"mention_count": 2,
+"name": "Guia_(Albufeira)",
+"url": "Guia_(Albufeira)"
+},
+{
+"mention_count": 2,
+"name": "Gustaf_de_Laval",
+"url": "Gustaf_de_Laval"
+},
+{
+"mention_count": 2,
+"name": "HComisionPreventivaCentral",
+"url": "HComisionPreventivaCentral"
+},
+{
+"mention_count": 2,
+"name": "HHDiputados",
+"url": "HHDiputados"
+},
+{
+"mention_count": 2,
+"name": "ICAFE",
+"url": "ICAFE"
+},
+{
+"mention_count": 2,
+"name": "ISPCSeychelles",
+"url": "ISPCSeychelles"
+},
+{
+"mention_count": 2,
+"name": "IVdelTituloPreliminar11delCodigo",
+"url": "IVdelTituloPreliminar11delCodigo"
+},
+{
+"mention_count": 2,
+"name": "Iicitaci6n",
+"url": "Iicitaci6n"
+},
+{
+"mention_count": 2,
+"name": "IndependentTradeUnionoftheOpenNetworkPharmacists",
+"url": "IndependentTradeUnionoftheOpenNetworkPharmacists"
+},
+{
+"mention_count": 2,
+"name": "IndustrialGoodsDepartment",
+"url": "IndustrialGoodsDepartment"
+},
+{
+"mention_count": 2,
+"name": "Inertial_navigation_system",
+"url": "Inertial_navigation_system"
+},
+{
+"mention_count": 2,
+"name": "InformeTecnicoNo42012",
+"url": "InformeTecnicoNo42012"
+},
+{
+"mention_count": 2,
+"name": "InstituteoftheHealthCareInsurance",
+"url": "InstituteoftheHealthCareInsurance"
+},
+{
+"mention_count": 2,
+"name": "IntendenciadeAduanaMaritimadelCallao",
+"url": "IntendenciadeAduanaMaritimadelCallao"
+},
+{
+"mention_count": 2,
+"name": "InternationalLoanAgreement",
+"url": "InternationalLoanAgreement"
+},
+{
+"mention_count": 2,
+"name": "Investigation_(film)",
+"url": "Investigation_(film)"
+},
+{
+"mention_count": 2,
+"name": "Joint_venture",
+"url": "Joint_venture"
+},
+{
+"mention_count": 2,
+"name": "JuntaAeronauticaCivil",
+"url": "JuntaAeronauticaCivil"
+},
+{
+"mention_count": 2,
+"name": "Knauf",
+"url": "Knauf"
+},
+{
+"mention_count": 2,
+"name": "Kraft_Foods",
+"url": "Kraft_Foods"
+},
+{
+"mention_count": 2,
+"name": "La_traviata",
+"url": "La_traviata"
+},
+{
+"mention_count": 2,
+"name": "Lainformacion",
+"url": "Lainformacion"
+},
+{
+"mention_count": 2,
+"name": "LawonCompetition",
+"url": "LawonCompetition"
+},
+{
+"mention_count": 2,
+"name": "LawonProtectionofCompetition",
+"url": "LawonProtectionofCompetition"
+},
+{
+"mention_count": 2,
+"name": "LawyersCivilSociety",
+"url": "LawyersCivilSociety"
+},
+{
+"mention_count": 2,
+"name": "LeyNdeg18410",
+"url": "LeyNdeg18410"
+},
+{
+"mention_count": 2,
+"name": "LeydePromociondeCompetenciayDefensaEfectivadelConsumidor",
+"url": "LeydePromociondeCompetenciayDefensaEfectivadelConsumidor"
+},
+{
+"mention_count": 2,
+"name": "ListofPurchaseOrdersandManufacturingCapacity",
+"url": "ListofPurchaseOrdersandManufacturingCapacity"
+},
+{
+"mention_count": 2,
+"name": "LloydsBankPic",
+"url": "LloydsBankPic"
+},
+{
+"mention_count": 2,
+"name": "Los_Cipreses_(M�laga)",
+"url": "Los_Cipreses_(M�laga)"
+},
+{
+"mention_count": 2,
+"name": "Luis_Alberto_Monge",
+"url": "Luis_Alberto_Monge"
+},
+{
+"mention_count": 2,
+"name": "MGMind",
+"url": "MGMind"
+},
+{
+"mention_count": 2,
+"name": "MaerskCR",
+"url": "MaerskCR"
+},
+{
+"mention_count": 2,
+"name": "McKenzie_County,_North_Dakota",
+"url": "McKenzie_County,_North_Dakota"
+},
+{
+"mention_count": 2,
+"name": "Metropolitan_Municipality_of_Lima",
+"url": "Metropolitan_Municipality_of_Lima"
+},
+{
+"mention_count": 2,
+"name": "Ministry_of_Economy_and_Finances_(Italy)",
+"url": "Ministry_of_Economy_and_Finances_(Italy)"
+},
+{
+"mention_count": 2,
+"name": "Moinesti",
+"url": "Moinesti"
+},
+{
+"mention_count": 2,
+"name": "Mycron",
+"url": "Mycron"
+},
+{
+"mention_count": 2,
+"name": "NACE_International",
+"url": "NACE_International"
+},
+{
+"mention_count": 2,
+"name": "NLBBankaFrankfurt",
+"url": "NLBBankaFrankfurt"
+},
+{
+"mention_count": 2,
+"name": "NationalSecuritiesCommission",
+"url": "NationalSecuritiesCommission"
+},
+{
+"mention_count": 2,
+"name": "NationalTradeRegisterOffice",
+"url": "NationalTradeRegisterOffice"
+},
+{
+"mention_count": 2,
+"name": "NayaTel",
+"url": "NayaTel"
+},
+{
+"mention_count": 2,
+"name": "No20011",
+"url": "No20011"
+},
+{
+"mention_count": 2,
+"name": "No46011de10demayode2011",
+"url": "No46011de10demayode2011"
+},
+{
+"mention_count": 2,
+"name": "No96011de18deagostode2011laComisiondePromocionyDefensadelaCompetencia",
+"url": "No96011de18deagostode2011laComisiondePromocionyDefensadelaCompetencia"
+},
+{
+"mention_count": 2,
+"name": "OPTISA",
+"url": "OPTISA"
+},
+{
+"mention_count": 2,
+"name": "OSSH",
+"url": "OSSH"
+},
+{
+"mention_count": 2,
+"name": "OTE",
+"url": "OTE"
+},
+{
+"mention_count": 2,
+"name": "OmikronLtd",
+"url": "OmikronLtd"
+},
+{
+"mention_count": 2,
+"name": "OrganodeProcedimientosSumarisimos3delIndecopi",
+"url": "OrganodeProcedimientosSumarisimos3delIndecopi"
+},
+{
+"mention_count": 2,
+"name": "PETROMSA",
+"url": "PETROMSA"
+},
+{
+"mention_count": 2,
+"name": "PIOCHECONSULTANTSLtdBelize",
+"url": "PIOCHECONSULTANTSLtdBelize"
+},
+{
+"mention_count": 2,
+"name": "Paragraph",
+"url": "Paragraph"
+},
+{
+"mention_count": 2,
+"name": "Petrom",
+"url": "Petrom"
+},
+{
+"mention_count": 2,
+"name": "PetromSABucharest",
+"url": "PetromSABucharest"
+},
+{
+"mention_count": 2,
+"name": "Philip_Zepter",
+"url": "Philip_Zepter"
+},
+{
+"mention_count": 2,
+"name": "PinnockHoldings",
+"url": "PinnockHoldings"
+},
+{
+"mention_count": 2,
+"name": "Preposition_and_postposition",
+"url": "Preposition_and_postposition"
+},
+{
+"mention_count": 2,
+"name": "Procredit_Bank",
+"url": "Procredit_Bank"
+},
+{
+"mention_count": 2,
+"name": "ProductosBituminososSA85yQuimicaLatinoamericanaSA90",
+"url": "ProductosBituminososSA85yQuimicaLatinoamericanaSA90"
+},
+{
+"mention_count": 2,
+"name": "Public_journal",
+"url": "Public_journal"
+},
+{
+"mention_count": 2,
+"name": "QuelaDirecciondeMercados",
+"url": "QuelaDirecciondeMercados"
+},
+{
+"mention_count": 2,
+"name": "RARomavia",
+"url": "RARomavia"
+},
+{
+"mention_count": 2,
+"name": "RCILeasing",
+"url": "RCILeasing"
+},
+{
+"mention_count": 2,
+"name": "RNPRomsilva",
+"url": "RNPRomsilva"
+},
+{
+"mention_count": 2,
+"name": "ROMANSABucuresti",
+"url": "ROMANSABucuresti"
+},
+{
+"mention_count": 2,
+"name": "RTCHoldingBV",
+"url": "RTCHoldingBV"
+},
+{
+"mention_count": 2,
+"name": "RVPC",
+"url": "RVPC"
+},
+{
+"mention_count": 2,
+"name": "Real_Academia_Espa�ola",
+"url": "Real_Academia_Espa�ola"
+},
+{
+"mention_count": 2,
+"name": "ReglamentoalRegimendeCompetencia",
+"url": "ReglamentoalRegimendeCompetencia"
+},
+{
+"mention_count": 2,
+"name": "Requeridas",
+"url": "Requeridas"
+},
+{
+"mention_count": 2,
+"name": "ResolucionFinal",
+"url": "ResolucionFinal"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNdeg22",
+"url": "ResolucionNdeg22"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo15014",
+"url": "ResolucionNo15014"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo22015",
+"url": "ResolucionNo22015"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo40015",
+"url": "ResolucionNo40015"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo43011",
+"url": "ResolucionNo43011"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo82015",
+"url": "ResolucionNo82015"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo90014",
+"url": "ResolucionNo90014"
+},
+{
+"mention_count": 2,
+"name": "ResolucionNo98011",
+"url": "ResolucionNo98011"
+},
+{
+"mention_count": 2,
+"name": "Resolution_Trust_Corporation",
+"url": "Resolution_Trust_Corporation"
+},
+{
+"mention_count": 2,
+"name": "Ricosol",
+"url": "Ricosol"
+},
+{
+"mention_count": 2,
+"name": "SA2",
+"url": "SA2"
+},
+{
+"mention_count": 2,
+"name": "SABucuresti",
+"url": "SABucuresti"
+},
+{
+"mention_count": 2,
+"name": "SAGalati",
+"url": "SAGalati"
+},
+{
+"mention_count": 2,
+"name": "SANTIAGOLaRegi6nMetropolitanaCLlenta",
+"url": "SANTIAGOLaRegi6nMetropolitanaCLlenta"
+},
+{
+"mention_count": 2,
+"name": "SAZalau",
+"url": "SAZalau"
+},
+{
+"mention_count": 2,
+"name": "SBSBroadcastingSA",
+"url": "SBSBroadcastingSA"
+},
+{
+"mention_count": 2,
+"name": "SCAlcatelTransportSolutionsRomania",
+"url": "SCAlcatelTransportSolutionsRomania"
+},
+{
+"mention_count": 2,
+"name": "SCFABRYO",
+"url": "SCFABRYO"
+},
+{
+"mention_count": 2,
+"name": "SCMolRomaniaPetroleumProductsSRL",
+"url": "SCMolRomaniaPetroleumProductsSRL"
+},
+{
+"mention_count": 2,
+"name": "SCPetromSA",
+"url": "SCPetromSA"
+},
+{
+"mention_count": 2,
+"name": "SCREALITATEAMEDIASA",
+"url": "SCREALITATEAMEDIASA"
+},
+{
+"mention_count": 2,
+"name": "SEMSELVA",
+"url": "SEMSELVA"
+},
+{
+"mention_count": 2,
+"name": "SWI",
+"url": "SWI"
+},
+{
+"mention_count": 2,
+"name": "Saint-Gobain",
+"url": "Saint-Gobain"
+},
+{
+"mention_count": 2,
+"name": "SaladeDefensadelaCompetenciaNo1delTribunaldeIndecopi",
+"url": "SaladeDefensadelaCompetenciaNo1delTribunaldeIndecopi"
+},
+{
+"mention_count": 2,
+"name": "SecretariatoftheCompetition",
+"url": "SecretariatoftheCompetition"
+},
+{
+"mention_count": 2,
+"name": "Servicio_Nacional_de_Sanidad_y_Calidad_Agroalimentaria",
+"url": "Servicio_Nacional_de_Sanidad_y_Calidad_Agroalimentaria"
+},
+{
+"mention_count": 2,
+"name": "SetimaDisposicionTransitoria",
+"url": "SetimaDisposicionTransitoria"
+},
+{
+"mention_count": 2,
+"name": "Seychelles",
+"url": "Seychelles"
+},
+{
+"mention_count": 2,
+"name": "Sigma",
+"url": "Sigma"
+},
+{
+"mention_count": 2,
+"name": "Sintofarm",
+"url": "Sintofarm"
+},
+{
+"mention_count": 2,
+"name": "Socialist_Republic_of_Romania",
+"url": "Socialist_Republic_of_Romania"
+},
+{
+"mention_count": 2,
+"name": "Society",
+"url": "Society"
+},
+{
+"mention_count": 2,
+"name": "Sp",
+"url": "Sp"
+},
+{
+"mention_count": 2,
+"name": "StanVidrighin",
+"url": "StanVidrighin"
+},
+{
+"mention_count": 2,
+"name": "StandardEssentialPatents",
+"url": "StandardEssentialPatents"
+},
+{
+"mention_count": 2,
+"name": "State_Bank_of_India",
+"url": "State_Bank_of_India"
+},
+{
+"mention_count": 2,
+"name": "State_Basketball_League",
+"url": "State_Basketball_League"
+},
+{
+"mention_count": 2,
+"name": "Subcutaneous_tissue",
+"url": "Subcutaneous_tissue"
+},
+{
+"mention_count": 2,
+"name": "Subsecretar�a_de_Estado_de_Chile",
+"url": "Subsecretar�a_de_Estado_de_Chile"
+},
+{
+"mention_count": 2,
+"name": "Superintendencia_de_Servicios_Sanitarios_de_Chile",
+"url": "Superintendencia_de_Servicios_Sanitarios_de_Chile"
+},
+{
+"mention_count": 2,
+"name": "TBICreditandPrimex",
+"url": "TBICreditandPrimex"
+},
+{
+"mention_count": 2,
+"name": "TheCouncilofCompetition",
+"url": "TheCouncilofCompetition"
+},
+{
+"mention_count": 2,
+"name": "The_Open_Championship",
+"url": "The_Open_Championship"
+},
+{
+"mention_count": 2,
+"name": "Titan_(moon)",
+"url": "Titan_(moon)"
+},
+{
+"mention_count": 2,
+"name": "Tobacna",
+"url": "Tobacna"
+},
+{
+"mention_count": 2,
+"name": "TrotusulSAOnesti",
+"url": "TrotusulSAOnesti"
+},
+{
+"mention_count": 2,
+"name": "Tulcea",
+"url": "Tulcea"
+},
+{
+"mention_count": 2,
+"name": "T�cnica",
+"url": "T�cnica"
+},
+{
+"mention_count": 2,
+"name": "UCAMAE",
+"url": "UCAMAE"
+},
+{
+"mention_count": 2,
+"name": "UNIONAGRICULTUREGROUPCORP",
+"url": "UNIONAGRICULTUREGROUPCORP"
+},
+{
+"mention_count": 2,
+"name": "UnicaDisposicionComplementaria",
+"url": "UnicaDisposicionComplementaria"
+},
+{
+"mention_count": 2,
+"name": "UnidadTecnicadeApoyo",
+"url": "UnidadTecnicadeApoyo"
+},
+{
+"mention_count": 2,
+"name": "UnionesContinentales",
+"url": "UnionesContinentales"
+},
+{
+"mention_count": 2,
+"name": "Vaillant_(magazine)",
+"url": "Vaillant_(magazine)"
+},
+{
+"mention_count": 2,
+"name": "ValueLogistics",
+"url": "ValueLogistics"
+},
+{
+"mention_count": 2,
+"name": "VodovodiKanalizacija",
+"url": "VodovodiKanalizacija"
+},
+{
+"mention_count": 2,
+"name": "Volfsburg",
+"url": "Volfsburg"
+},
+{
+"mention_count": 2,
+"name": "Volkswagen_Group",
+"url": "Volkswagen_Group"
+},
+{
+"mention_count": 2,
+"name": "VotoNdeg072011",
+"url": "VotoNdeg072011"
+},
+{
+"mention_count": 2,
+"name": "William_Colgate",
+"url": "William_Colgate"
+},
+{
+"mention_count": 2,
+"name": "ZivkoVujicic",
+"url": "ZivkoVujicic"
+},
+{
+"mention_count": 2,
+"name": "articulo6degdelDecretoSupremoNdeg67",
+"url": "articulo6degdelDecretoSupremoNdeg67"
+},
+{
+"mention_count": 2,
+"name": "ČEZ_Group",
+"url": "ČEZ_Group"
+},
+{
+"mention_count": 1,
+"name": "1094MML",
+"url": "1094MML"
+},
+{
+"mention_count": 1,
+"name": "170_BC",
+"url": "170_BC"
+},
+{
+"mention_count": 1,
+"name": "2011PPE11147UCE",
+"url": "2011PPE11147UCE"
+},
+{
+"mention_count": 1,
+"name": "26oBISdelDecretoLeyNdeg25868",
+"url": "26oBISdelDecretoLeyNdeg25868"
+},
+{
+"mention_count": 1,
+"name": "8degdelDecretoLegislativo1044LeydeRepresiondelaCompetenciaDesleal",
+"url": "8degdelDecretoLegislativo1044LeydeRepresiondelaCompetenciaDesleal"
+},
+{
+"mention_count": 1,
+"name": "AADECC",
+"url": "AADECC"
+},
+{
+"mention_count": 1,
+"name": "AAOPFR",
+"url": "AAOPFR"
+},
+{
+"mention_count": 1,
+"name": "ABOPAC",
+"url": "ABOPAC"
+},
+{
+"mention_count": 1,
+"name": "ACFarma",
+"url": "ACFarma"
+},
+{
+"mention_count": 1,
+"name": "ADESM",
+"url": "ADESM"
+},
+{
+"mention_count": 1,
+"name": "ALIGRO",
+"url": "ALIGRO"
+},
+{
+"mention_count": 1,
+"name": "ARelevant",
+"url": "ARelevant"
+},
+{
+"mention_count": 1,
+"name": "ASOCIACION",
+"url": "ASOCIACION"
+},
+{
+"mention_count": 1,
+"name": "AanchalKhetarpal",
+"url": "AanchalKhetarpal"
+},
+{
+"mention_count": 1,
+"name": "Abopac",
+"url": "Abopac"
+},
+{
+"mention_count": 1,
+"name": "Act_of_Parliament",
+"url": "Act_of_Parliament"
+},
+{
+"mention_count": 1,
+"name": "Acuerdo",
+"url": "Acuerdo"
+},
+{
+"mention_count": 1,
+"name": "AdlaSatyaNarayanRao",
+"url": "AdlaSatyaNarayanRao"
+},
+{
+"mention_count": 1,
+"name": "AdministracionActiva",
+"url": "AdministracionActiva"
+},
+{
+"mention_count": 1,
+"name": "Advanced_Systems_Format",
+"url": "Advanced_Systems_Format"
+},
+{
+"mention_count": 1,
+"name": "Adventure_Game_Interpreter",
+"url": "Adventure_Game_Interpreter"
+},
+{
+"mention_count": 1,
+"name": "AgenciadeViajesColon",
+"url": "AgenciadeViajesColon"
+},
+{
+"mention_count": 1,
+"name": "Agrokor",
+"url": "Agrokor"
+},
+{
+"mention_count": 1,
+"name": "AhmetCalik",
+"url": "AhmetCalik"
+},
+{
+"mention_count": 1,
+"name": "Al-Hayat",
+"url": "Al-Hayat"
+},
+{
+"mention_count": 1,
+"name": "Albanian-American_Enterprise_Fund",
+"url": "Albanian-American_Enterprise_Fund"
+},
+{
+"mention_count": 1,
+"name": "All_India_Kisan_Sabha",
+"url": "All_India_Kisan_Sabha"
+},
+{
+"mention_count": 1,
+"name": "AnteaCement",
+"url": "AnteaCement"
+},
+{
+"mention_count": 1,
+"name": "Anthony_the_Great",
+"url": "Anthony_the_Great"
+},
+{
+"mention_count": 1,
+"name": "ArcelorMittal",
+"url": "ArcelorMittal"
+},
+{
+"mention_count": 1,
+"name": "AssociationofHydrocarbonCompanies",
+"url": "AssociationofHydrocarbonCompanies"
+},
+{
+"mention_count": 1,
+"name": "AutorizacionesmedianteInformeNo6512014MDJMGDUSGLyA",
+"url": "AutorizacionesmedianteInformeNo6512014MDJMGDUSGLyA"
+},
+{
+"mention_count": 1,
+"name": "B'nai_B'rith",
+"url": "B'nai_B'rith"
+},
+{
+"mention_count": 1,
+"name": "BEGAGroup",
+"url": "BEGAGroup"
+},
+{
+"mention_count": 1,
+"name": "BHTelekom",
+"url": "BHTelekom"
+},
+{
+"mention_count": 1,
+"name": "BP",
+"url": "BP"
+},
+{
+"mention_count": 1,
+"name": "BPAlbania",
+"url": "BPAlbania"
+},
+{
+"mention_count": 1,
+"name": "BSobrelosMercadosRelevantes",
+"url": "BSobrelosMercadosRelevantes"
+},
+{
+"mention_count": 1,
+"name": "BancadeCubiertaColectivadeQuinieladeMontevideo",
+"url": "BancadeCubiertaColectivadeQuinieladeMontevideo"
+},
+{
+"mention_count": 1,
+"name": "BaneasaBusinessCenter",
+"url": "BaneasaBusinessCenter"
+},
+{
+"mention_count": 1,
+"name": "Barr_Pharmaceuticals",
+"url": "Barr_Pharmaceuticals"
+},
+{
+"mention_count": 1,
+"name": "Bayer",
+"url": "Bayer"
+},
+{
+"mention_count": 1,
+"name": "Belgrade",
+"url": "Belgrade"
+},
+{
+"mention_count": 1,
+"name": "BettermannGroup",
+"url": "BettermannGroup"
+},
+{
+"mention_count": 1,
+"name": "BoardoftheRomanianCompetitionCouncil",
+"url": "BoardoftheRomanianCompetitionCouncil"
+},
+{
+"mention_count": 1,
+"name": "Brach",
+"url": "Brach"
+},
+{
+"mention_count": 1,
+"name": "Braun_(company)",
+"url": "Braun_(company)"
+},
+{
+"mention_count": 1,
+"name": "CESEDEFINITIVO",
+"url": "CESEDEFINITIVO"
+},
+{
+"mention_count": 1,
+"name": "CICT-DT",
+"url": "CICT-DT"
+},
+{
+"mention_count": 1,
+"name": "CLOROXPERUSA12COMISIONDEPROTECCIONALCONSUMIDORNo3SEDECENTRALEXPEDIENTENo0012015CC3SAN5",
+"url": "CLOROXPERUSA12COMISIONDEPROTECCIONALCONSUMIDORNo3SEDECENTRALEXPEDIENTENo0012015CC3SAN5"
+},
+{
+"mention_count": 1,
+"name": "CNDC",
+"url": "CNDC"
+},
+{
+"mention_count": 1,
+"name": "CODIGODEPROTECCIONYDEFENSADELCONSUMIDORArticulo",
+"url": "CODIGODEPROTECCIONYDEFENSADELCONSUMIDORArticulo"
+},
+{
+"mention_count": 1,
+"name": "COMCA",
+"url": "COMCA"
+},
+{
+"mention_count": 1,
+"name": "COMESACompetitionCommission",
+"url": "COMESACompetitionCommission"
+},
+{
+"mention_count": 1,
+"name": "COMPETITIONCOUNCIL",
+"url": "COMPETITIONCOUNCIL"
+},
+{
+"mention_count": 1,
+"name": "Cabinet_of_Spain",
+"url": "Cabinet_of_Spain"
+},
+{
+"mention_count": 1,
+"name": "CableWirelessSeychelles",
+"url": "CableWirelessSeychelles"
+},
+{
+"mention_count": 1,
+"name": "Cantol",
+"url": "Cantol"
+},
+{
+"mention_count": 1,
+"name": "Capitulo11",
+"url": "Capitulo11"
+},
+{
+"mention_count": 1,
+"name": "CapitulolVdelReglamentoInternodelCENEMariaMolinari",
+"url": "CapitulolVdelReglamentoInternodelCENEMariaMolinari"
+},
+{
+"mention_count": 1,
+"name": "Caso6",
+"url": "Caso6"
+},
+{
+"mention_count": 1,
+"name": "CentrosEducativosPrivados",
+"url": "CentrosEducativosPrivados"
+},
+{
+"mention_count": 1,
+"name": "CetelTelekom",
+"url": "CetelTelekom"
+},
+{
+"mention_count": 1,
+"name": "CircularSBSNdeg",
+"url": "CircularSBSNdeg"
+},
+{
+"mention_count": 1,
+"name": "Citigroup",
+"url": "Citigroup"
+},
+{
+"mention_count": 1,
+"name": "CodigodeAguas",
+"url": "CodigodeAguas"
+},
+{
+"mention_count": 1,
+"name": "Colegio_de_Escribanos_de_Buenos_Aires",
+"url": "Colegio_de_Escribanos_de_Buenos_Aires"
+},
+{
+"mention_count": 1,
+"name": "CompetitinCommission",
+"url": "CompetitinCommission"
+},
+{
+"mention_count": 1,
+"name": "CompetitionCouncilPlenum",
+"url": "CompetitionCouncilPlenum"
+},
+{
+"mention_count": 1,
+"name": "Competition_Authority_(Ireland)",
+"url": "Competition_Authority_(Ireland)"
+},
+{
+"mention_count": 1,
+"name": "CompetitonCouncil",
+"url": "CompetitonCouncil"
+},
+{
+"mention_count": 1,
+"name": "ConsiderandoNdeg37",
+"url": "ConsiderandoNdeg37"
+},
+{
+"mention_count": 1,
+"name": "ConsultancyAgreement",
+"url": "ConsultancyAgreement"
+},
+{
+"mention_count": 1,
+"name": "ConsumoyPublicidaddeBebidasAlcoholicas",
+"url": "ConsumoyPublicidaddeBebidasAlcoholicas"
+},
+{
+"mention_count": 1,
+"name": "ConvenioMarco",
+"url": "ConvenioMarco"
+},
+{
+"mention_count": 1,
+"name": "CordSA",
+"url": "CordSA"
+},
+{
+"mention_count": 1,
+"name": "Costa_Rican_Department_of_Social_Security",
+"url": "Costa_Rican_Department_of_Social_Security"
+},
+{
+"mention_count": 1,
+"name": "Cuarto",
+"url": "Cuarto"
+},
+{
+"mention_count": 1,
+"name": "Czech_Republic",
+"url": "Czech_Republic"
+},
+{
+"mention_count": 1,
+"name": "C�mara_de_Comercio_de_Santiago",
+"url": "C�mara_de_Comercio_de_Santiago"
+},
+{
+"mention_count": 1,
+"name": "DAdicionalmente",
+"url": "DAdicionalmente"
+},
+{
+"mention_count": 1,
+"name": "DECISION",
+"url": "DECISION"
+},
+{
+"mention_count": 1,
+"name": "DGC_Records",
+"url": "DGC_Records"
+},
+{
+"mention_count": 1,
+"name": "DIJAMANT",
+"url": "DIJAMANT"
+},
+{
+"mention_count": 1,
+"name": "DeaconuNuta",
+"url": "DeaconuNuta"
+},
+{
+"mention_count": 1,
+"name": "December_15",
+"url": "December_15"
+},
+{
+"mention_count": 1,
+"name": "December_22",
+"url": "December_22"
+},
+{
+"mention_count": 1,
+"name": "DecretoLegislativo1034",
+"url": "DecretoLegislativo1034"
+},
+{
+"mention_count": 1,
+"name": "DecretoSupremoNdeg01997ITINCI",
+"url": "DecretoSupremoNdeg01997ITINCI"
+},
+{
+"mention_count": 1,
+"name": "DelhiHigh",
+"url": "DelhiHigh"
+},
+{
+"mention_count": 1,
+"name": "DeltaRomania",
+"url": "DeltaRomania"
+},
+{
+"mention_count": 1,
+"name": "DepartmentofAgricultureCooperationStateofTelanganaAgainst",
+"url": "DepartmentofAgricultureCooperationStateofTelanganaAgainst"
+},
+{
+"mention_count": 1,
+"name": "Deutsche_Telekom",
+"url": "Deutsche_Telekom"
+},
+{
+"mention_count": 1,
+"name": "Diesel_fuel",
+"url": "Diesel_fuel"
+},
+{
+"mention_count": 1,
+"name": "Divisio",
+"url": "Divisio"
+},
+{
+"mention_count": 1,
+"name": "DivisiondeImportacionesdelaIntendenciadeAduanaMaritimadelCallao",
+"url": "DivisiondeImportacionesdelaIntendenciadeAduanaMaritimadelCallao"
+},
+{
+"mention_count": 1,
+"name": "DragosGrigoriu",
+"url": "DragosGrigoriu"
+},
+{
+"mention_count": 1,
+"name": "EIOrdNdeg55",
+"url": "EIOrdNdeg55"
+},
+{
+"mention_count": 1,
+"name": "EMlDeutschlandGmbH",
+"url": "EMlDeutschlandGmbH"
+},
+{
+"mention_count": 1,
+"name": "ETIMBRES",
+"url": "ETIMBRES"
+},
+{
+"mention_count": 1,
+"name": "EVNAG",
+"url": "EVNAG"
+},
+{
+"mention_count": 1,
+"name": "Egg_(food)",
+"url": "Egg_(food)"
+},
+{
+"mention_count": 1,
+"name": "ElgekaCyprusLtd",
+"url": "ElgekaCyprusLtd"
+},
+{
+"mention_count": 1,
+"name": "FinaldelRNAT",
+"url": "FinaldelRNAT"
+},
+{
+"mention_count": 1,
+"name": "Financial_Services_Authority",
+"url": "Financial_Services_Authority"
+},
+{
+"mention_count": 1,
+"name": "Finmeccanica",
+"url": "Finmeccanica"
+},
+{
+"mention_count": 1,
+"name": "Fischel",
+"url": "Fischel"
+},
+{
+"mention_count": 1,
+"name": "FrscALNActoNAl",
+"url": "FrscALNActoNAl"
+},
+{
+"mention_count": 1,
+"name": "GSF",
+"url": "GSF"
+},
+{
+"mention_count": 1,
+"name": "Galvatica",
+"url": "Galvatica"
+},
+{
+"mention_count": 1,
+"name": "GeneralAdministrationProcedure",
+"url": "GeneralAdministrationProcedure"
+},
+{
+"mention_count": 1,
+"name": "GlobalArquitectosLtda",
+"url": "GlobalArquitectosLtda"
+},
+{
+"mention_count": 1,
+"name": "GlobalShipping",
+"url": "GlobalShipping"
+},
+{
+"mention_count": 1,
+"name": "Graba",
+"url": "Graba"
+},
+{
+"mention_count": 1,
+"name": "Halawani",
+"url": "Halawani"
+},
+{
+"mention_count": 1,
+"name": "HechosDenunciadosElarticulo9",
+"url": "HechosDenunciadosElarticulo9"
+},
+{
+"mention_count": 1,
+"name": "High_Court_of_Justice",
+"url": "High_Court_of_Justice"
+},
+{
+"mention_count": 1,
+"name": "Honduras",
+"url": "Honduras"
+},
+{
+"mention_count": 1,
+"name": "HypoAlpeAdriaLeasing",
+"url": "HypoAlpeAdriaLeasing"
+},
+{
+"mention_count": 1,
+"name": "IDEALSIPKA",
+"url": "IDEALSIPKA"
+},
+{
+"mention_count": 1,
+"name": "ISobreestepunto",
+"url": "ISobreestepunto"
+},
+{
+"mention_count": 1,
+"name": "IaResolutiva",
+"url": "IaResolutiva"
+},
+{
+"mention_count": 1,
+"name": "IllianServicesLtd",
+"url": "IllianServicesLtd"
+},
+{
+"mention_count": 1,
+"name": "International_Centre_for_Settlement_of_Investment_Disputes",
+"url": "International_Centre_for_Settlement_of_Investment_Disputes"
+},
+{
+"mention_count": 1,
+"name": "JIL",
+"url": "JIL"
+},
+{
+"mention_count": 1,
+"name": "JILTSADrobetaTurnuSeverin",
+"url": "JILTSADrobetaTurnuSeverin"
+},
+{
+"mention_count": 1,
+"name": "Japan",
+"url": "Japan"
+},
+{
+"mention_count": 1,
+"name": "JuzgadoLetradodePrimeraInstancia",
+"url": "JuzgadoLetradodePrimeraInstancia"
+},
+{
+"mention_count": 1,
+"name": "KBK",
+"url": "KBK"
+},
+{
+"mention_count": 1,
+"name": "KESH",
+"url": "KESH"
+},
+{
+"mention_count": 1,
+"name": "Kimberly-Clark",
+"url": "Kimberly-Clark"
+},
+{
+"mention_count": 1,
+"name": "LaCMACTRUJILLO",
+"url": "LaCMACTRUJILLO"
+},
+{
+"mention_count": 1,
+"name": "LaNacion",
+"url": "LaNacion"
+},
+{
+"mention_count": 1,
+"name": "LandLaw",
+"url": "LandLaw"
+},
+{
+"mention_count": 1,
+"name": "LegalFramework",
+"url": "LegalFramework"
+},
+{
+"mention_count": 1,
+"name": "Ley25156",
+"url": "Ley25156"
+},
+{
+"mention_count": 1,
+"name": "LeyNdeg19496",
+"url": "LeyNdeg19496"
+},
+{
+"mention_count": 1,
+"name": "LeydeRepresiondelaCompetenciaDesleal",
+"url": "LeydeRepresiondelaCompetenciaDesleal"
+},
+{
+"mention_count": 1,
+"name": "Liquefied_petroleum_gas",
+"url": "Liquefied_petroleum_gas"
+},
+{
+"mention_count": 1,
+"name": "List_of_Ministers_of_Transport_and_Public_Works_(Uruguay)",
+"url": "List_of_Ministers_of_Transport_and_Public_Works_(Uruguay)"
+},
+{
+"mention_count": 1,
+"name": "LosCipresesSA",
+"url": "LosCipresesSA"
+},
+{
+"mention_count": 1,
+"name": "LukaRajic",
+"url": "LukaRajic"
+},
+{
+"mention_count": 1,
+"name": "MCFD021AResolucionNo0492015CFDINDECOPIRPN",
+"url": "MCFD021AResolucionNo0492015CFDINDECOPIRPN"
+},
+{
+"mention_count": 1,
+"name": "MCFD211B24ResolucionNo0422015CFDINDECOPI",
+"url": "MCFD211B24ResolucionNo0422015CFDINDECOPI"
+},
+{
+"mention_count": 1,
+"name": "MEIC",
+"url": "MEIC"
+},
+{
+"mention_count": 1,
+"name": "Management",
+"url": "Management"
+},
+{
+"mention_count": 1,
+"name": "ManuelZunigaSibaja",
+"url": "ManuelZunigaSibaja"
+},
+{
+"mention_count": 1,
+"name": "MaosolSA",
+"url": "MaosolSA"
+},
+{
+"mention_count": 1,
+"name": "Metalco",
+"url": "Metalco"
+},
+{
+"mention_count": 1,
+"name": "MinisteriodeAgriculturayGanaderia",
+"url": "MinisteriodeAgriculturayGanaderia"
+},
+{
+"mention_count": 1,
+"name": "MinistryofNatural",
+"url": "MinistryofNatural"
+},
+{
+"mention_count": 1,
+"name": "MioaraAdelaColan",
+"url": "MioaraAdelaColan"
+},
+{
+"mention_count": 1,
+"name": "Miraflores_District,_Lima",
+"url": "Miraflores_District,_Lima"
+},
+{
+"mention_count": 1,
+"name": "Mobile_virtual_network_operator",
+"url": "Mobile_virtual_network_operator"
+},
+{
+"mention_count": 1,
+"name": "NACIONALECONOMICAAGUSTINAS853",
+"url": "NACIONALECONOMICAAGUSTINAS853"
+},
+{
+"mention_count": 1,
+"name": "No26010de29deabrilde2010",
+"url": "No26010de29deabrilde2010"
+},
+{
+"mention_count": 1,
+"name": "No32011de12deabrilde2011",
+"url": "No32011de12deabrilde2011"
+},
+{
+"mention_count": 1,
+"name": "No52012de24dejuliode2012",
+"url": "No52012de24dejuliode2012"
+},
+{
+"mention_count": 1,
+"name": "Non-disclosure_agreement",
+"url": "Non-disclosure_agreement"
+},
+{
+"mention_count": 1,
+"name": "Oficina_de_Planeamiento_y_Presupuesto",
+"url": "Oficina_de_Planeamiento_y_Presupuesto"
+},
+{
+"mention_count": 1,
+"name": "OppositeParties",
+"url": "OppositeParties"
+},
+{
+"mention_count": 1,
+"name": "Order_of_the_Government_of_Russia",
+"url": "Order_of_the_Government_of_Russia"
+},
+{
+"mention_count": 1,
+"name": "Organisation_for_Economic_Co-operation_and_Development",
+"url": "Organisation_for_Economic_Co-operation_and_Development"
+},
+{
+"mention_count": 1,
+"name": "PSComlsifrVi",
+"url": "PSComlsifrVi"
+},
+{
+"mention_count": 1,
+"name": "Perak",
+"url": "Perak"
+},
+{
+"mention_count": 1,
+"name": "Politics_of_the_Republic_of_Macedonia",
+"url": "Politics_of_the_Republic_of_Macedonia"
+},
+{
+"mention_count": 1,
+"name": "Polymas",
+"url": "Polymas"
+},
+{
+"mention_count": 1,
+"name": "Pompei",
+"url": "Pompei"
+},
+{
+"mention_count": 1,
+"name": "Prasar_Bharati",
+"url": "Prasar_Bharati"
+},
+{
+"mention_count": 1,
+"name": "President_of_Chile",
+"url": "President_of_Chile"
+},
+{
+"mention_count": 1,
+"name": "PrincipiodePresunciondeLicitud",
+"url": "PrincipiodePresunciondeLicitud"
+},
+{
+"mention_count": 1,
+"name": "Principle_of_legality",
+"url": "Principle_of_legality"
+},
+{
+"mention_count": 1,
+"name": "PublicWholesaleSupplier",
+"url": "PublicWholesaleSupplier"
+},
+{
+"mention_count": 1,
+"name": "ROMSTALGroup",
+"url": "ROMSTALGroup"
+},
+{
+"mention_count": 1,
+"name": "ReglamentodeInspeccionesTecnicasdeSeguridadenDefensaCivil",
+"url": "ReglamentodeInspeccionesTecnicasdeSeguridadenDefensaCivil"
+},
+{
+"mention_count": 1,
+"name": "Reglamentodeacceso",
+"url": "Reglamentodeacceso"
+},
+{
+"mention_count": 1,
+"name": "Reglamentodelarticulo",
+"url": "Reglamentodelarticulo"
+},
+{
+"mention_count": 1,
+"name": "RegulatoryEntityforElectricalEnergy",
+"url": "RegulatoryEntityforElectricalEnergy"
+},
+{
+"mention_count": 1,
+"name": "Renal_cell_carcinoma",
+"url": "Renal_cell_carcinoma"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNdeg022005",
+"url": "ResolucionNdeg022005"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNo11015",
+"url": "ResolucionNo11015"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNo54015",
+"url": "ResolucionNo54015"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNo59015",
+"url": "ResolucionNo59015"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNo61015",
+"url": "ResolucionNo61015"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNo68015",
+"url": "ResolucionNo68015"
+},
+{
+"mention_count": 1,
+"name": "ResolucionNo93014",
+"url": "ResolucionNo93014"
+},
+{
+"mention_count": 1,
+"name": "Reverse_Polish_notation",
+"url": "Reverse_Polish_notation"
+},
+{
+"mention_count": 1,
+"name": "RichterGedeon",
+"url": "RichterGedeon"
+},
+{
+"mention_count": 1,
+"name": "RomanianOfficialGazette",
+"url": "RomanianOfficialGazette"
+},
+{
+"mention_count": 1,
+"name": "Rosario_Central",
+"url": "Rosario_Central"
+},
+{
+"mention_count": 1,
+"name": "RuleroProduccionesSRL",
+"url": "RuleroProduccionesSRL"
+},
+{
+"mention_count": 1,
+"name": "SA08148",
+"url": "SA08148"
+},
+{
+"mention_count": 1,
+"name": "SABucharest",
+"url": "SABucharest"
+},
+{
+"mention_count": 1,
+"name": "SCAdevarulSA",
+"url": "SCAdevarulSA"
+},
+{
+"mention_count": 1,
+"name": "SCAnchorGroupSA",
+"url": "SCAnchorGroupSA"
+},
+{
+"mention_count": 1,
+"name": "SCFilialadeDistributie",
+"url": "SCFilialadeDistributie"
+},
+{
+"mention_count": 1,
+"name": "SCIonTiriacAirSA",
+"url": "SCIonTiriacAirSA"
+},
+{
+"mention_count": 1,
+"name": "SCPetromSABucuresti",
+"url": "SCPetromSABucuresti"
+},
+{
+"mention_count": 1,
+"name": "SaladeDefensadelaCompetenciadelINDECOPI",
+"url": "SaladeDefensadelaCompetenciadelINDECOPI"
+},
+{
+"mention_count": 1,
+"name": "SanpaoloGroup",
+"url": "SanpaoloGroup"
+},
+{
+"mention_count": 1,
+"name": "SaurabhTripathy",
+"url": "SaurabhTripathy"
+},
+{
+"mention_count": 1,
+"name": "Science_and_Engineering_Research_Council",
+"url": "Science_and_Engineering_Research_Council"
+},
+{
+"mention_count": 1,
+"name": "SecretariatGeneraloftheCompetitionCouncil",
+"url": "SecretariatGeneraloftheCompetitionCouncil"
+},
+{
+"mention_count": 1,
+"name": "ShareholdersGeneralAssembly",
+"url": "ShareholdersGeneralAssembly"
+},
+{
+"mention_count": 1,
+"name": "SharesSalePurchasePromise",
+"url": "SharesSalePurchasePromise"
+},
+{
+"mention_count": 1,
+"name": "Sick_building_syndrome",
+"url": "Sick_building_syndrome"
+},
+{
+"mention_count": 1,
+"name": "Sistema_Nacional_de_Investigadores_(M�xico)",
+"url": "Sistema_Nacional_de_Investigadores_(M�xico)"
+},
+{
+"mention_count": 1,
+"name": "Skopje",
+"url": "Skopje"
+},
+{
+"mention_count": 1,
+"name": "SoloSirkarna",
+"url": "SoloSirkarna"
+},
+{
+"mention_count": 1,
+"name": "Spencer_Ackerman",
+"url": "Spencer_Ackerman"
+},
+{
+"mention_count": 1,
+"name": "SrOlguin",
+"url": "SrOlguin"
+},
+{
+"mention_count": 1,
+"name": "Star_FM",
+"url": "Star_FM"
+},
+{
+"mention_count": 1,
+"name": "Stargate_SG-1",
+"url": "Stargate_SG-1"
+},
+{
+"mention_count": 1,
+"name": "Strabag",
+"url": "Strabag"
+},
+{
+"mention_count": 1,
+"name": "Subotica",
+"url": "Subotica"
+},
+{
+"mention_count": 1,
+"name": "Subsecretarla",
+"url": "Subsecretarla"
+},
+{
+"mention_count": 1,
+"name": "Superintendencia_de_Bancos_e_Instituciones_Financieras_de_Chile",
+"url": "Superintendencia_de_Bancos_e_Instituciones_Financieras_de_Chile"
+},
+{
+"mention_count": 1,
+"name": "Superintendencia_de_Telecomunicaciones_(Guatemala)",
+"url": "Superintendencia_de_Telecomunicaciones_(Guatemala)"
+},
+{
+"mention_count": 1,
+"name": "TataSA",
+"url": "TataSA"
+},
+{
+"mention_count": 1,
+"name": "TextoUnicodeProcedimientosAdministrativos",
+"url": "TextoUnicodeProcedimientosAdministrativos"
+},
+{
+"mention_count": 1,
+"name": "TheNationalCompanyRomanianWaters",
+"url": "TheNationalCompanyRomanianWaters"
+},
+{
+"mention_count": 1,
+"name": "TheRepublicofAlbania",
+"url": "TheRepublicofAlbania"
+},
+{
+"mention_count": 1,
+"name": "The_Nation,_Ontario",
+"url": "The_Nation,_Ontario"
+},
+{
+"mention_count": 1,
+"name": "Theraflex",
+"url": "Theraflex"
+},
+{
+"mention_count": 1,
+"name": "TiriacBank",
+"url": "TiriacBank"
+},
+{
+"mention_count": 1,
+"name": "TituloIII",
+"url": "TituloIII"
+},
+{
+"mention_count": 1,
+"name": "Tonne",
+"url": "Tonne"
+},
+{
+"mention_count": 1,
+"name": "Transaccion",
+"url": "Transaccion"
+},
+{
+"mention_count": 1,
+"name": "Transbank",
+"url": "Transbank"
+},
+{
+"mention_count": 1,
+"name": "Unimarine",
+"url": "Unimarine"
+},
+{
+"mention_count": 1,
+"name": "United_States_dollar",
+"url": "United_States_dollar"
+},
+{
+"mention_count": 1,
+"name": "VAfirma",
+"url": "VAfirma"
+},
+{
+"mention_count": 1,
+"name": "VTRBandaAncha",
+"url": "VTRBandaAncha"
+},
+{
+"mention_count": 1,
+"name": "VafirmoconocerlaResolucionNdeg12893defs",
+"url": "VafirmoconocerlaResolucionNdeg12893defs"
+},
+{
+"mention_count": 1,
+"name": "Vishwaroopam",
+"url": "Vishwaroopam"
+},
+{
+"mention_count": 1,
+"name": "Wella",
+"url": "Wella"
+},
+{
+"mention_count": 1,
+"name": "ZiaruldeIasi",
+"url": "ZiaruldeIasi"
+}
+],
+"mention_count": 15797,
+"name": "cite",
+"type": "source",
+"url": ""
+},
+{
+"instance_count": 16,
+"instances": [
+{
+"mention_count": 68346,
+"name": "Romania_Competition_Commission",
+"url": "Romania_Competition_Commission"
+},
+{
+"mention_count": 47552,
+"name": "Peru_Competition_Commission",
+"url": "Peru_Competition_Commission"
+},
+{
+"mention_count": 44397,
+"name": "Costa_Rica_Competition_Commission",
+"url": "Costa_Rica_Competition_Commission"
+},
+{
+"mention_count": 37060,
+"name": "Chile_Competition_Commission",
+"url": "Chile_Competition_Commission"
+},
+{
+"mention_count": 17247,
+"name": "Albania_Competition_Commission",
+"url": "Albania_Competition_Commission"
+},
+{
+"mention_count": 13994,
+"name": "Bosnia-Herzegovina_Competition_Commission",
+"url": "Bosnia-Herzegovina_Competition_Commission"
+},
+{
+"mention_count": 10321,
+"name": "India_Competition_Commission",
+"url": "India_Competition_Commission"
+},
+{
+"mention_count": 6739,
+"name": "Moldova_Competition_Commission",
+"url": "Moldova_Competition_Commission"
+},
+{
+"mention_count": 5969,
+"name": "Argentina_Competition_Commission",
+"url": "Argentina_Competition_Commission"
+},
+{
+"mention_count": 5514,
+"name": "Macedonia_Competition_Commission",
+"url": "Macedonia_Competition_Commission"
+},
+{
+"mention_count": 4510,
+"name": "Uruguay_Competition_Commission",
+"url": "Uruguay_Competition_Commission"
+},
+{
+"mention_count": 3416,
+"name": "Serbia_Competition_Commission",
+"url": "Serbia_Competition_Commission"
+},
+{
+"mention_count": 3216,
+"name": "Pakistan_Competition_Commission",
+"url": "Pakistan_Competition_Commission"
+},
+{
+"mention_count": 2161,
+"name": "Botswana_Competition_Commission",
+"url": "Botswana_Competition_Commission"
+},
+{
+"mention_count": 1360,
+"name": "Malaysia_Competition_Commission",
+"url": "Malaysia_Competition_Commission"
+},
+{
+"mention_count": 796,
+"name": "Seychelles_Competition_Commission",
+"url": "Seychelles_Competition_Commission"
+}
+],
+"mention_count": 272598,
+"name": "author",
+"type": "source",
+"url": ""
+}
+]}
