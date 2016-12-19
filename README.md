@@ -49,6 +49,41 @@ Maybe a more succinct description is:
 - a node's children and instances must be of the same type as the parent. The resulting data structure can thus be a nested one.
 - a node's children are sorted by decreasing ``mention_count``.
 
+Examples:
+
+```
+entities/
+└── entity0
+    ├── entity1
+    ├── entity2
+    └── instance0
+```
+
+```
+events
+└── event0
+```
+
+```
+sources/
+└── source0
+    ├── instance0
+    ├── instance1
+    └── instance2
+```
+
+```
+topics/
+└── topic0
+    ├── instance0
+    ├── instance1
+    ├── instance2
+    ├── topic1
+    ├── topic2
+    ├── topic3
+    └── topic4
+```
+
 
 Questions:
 
