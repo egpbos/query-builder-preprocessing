@@ -50,4 +50,11 @@ Maybe a more succinct description is:
 - a node's children are sorted by decreasing ``mention_count``.
 
 
+Questions:
+
+- instances are regarded children of a node? for example [this snippet](https://github.com/NLeSC-Storyteller/query-builder-preprocessing/blob/d8965af72c0378f771256ac8fb634df1a5048d9a/data/entities.json#L4727-L4741) describes an entity National_Health_Service, with a ``child_count`` of 1, but there is no ``children`` field, while ``instances`` contains one element. 
+- Why do both entities and instances-of-entities have a ``type`` field while they are already part of the entity tree?
+- Why do instances list their parent? I already know what their parent is, because the data is nested.
+
+
 
