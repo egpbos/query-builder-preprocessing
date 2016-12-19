@@ -1,0 +1,1490 @@
+{"children": [
+{
+"child_count": 88,
+"instances": [
+{
+"mention_count": 16668,
+"name": "?",
+"query": "?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5400,
+"name": "The_Children?s_Hospital_of_Philadelphia",
+"query": "The_Children?s_Hospital_of_Philadelphia",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2028,
+"name": "Department_of_Health?NHS_Choices",
+"query": "Department_of_Health?NHS_Choices",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1168,
+"name": "Centers_for_Disease_Control",
+"query": "Centers_for_Disease_Control",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1153,
+"name": "Australian_Government_Department_of_Health?Australian_Government_Department_of_Health",
+"query": "Australian_Government_Department_of_Health?Australian_Government_Department_of_Health",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 863,
+"name": "?Government_of_Canada",
+"query": "?Government_of_Canada",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 601,
+"name": "Prevention?CDC",
+"query": "Prevention?CDC",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 567,
+"name": "Prevention?unknown",
+"query": "Prevention?unknown",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 490,
+"name": "Health_Canada",
+"query": "Health_Canada",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 490,
+"name": "the_Public_Health_Agency_of_Canada",
+"query": "the_Public_Health_Agency_of_Canada",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 470,
+"name": "Chicago_Reader?Aimee_Levitt",
+"query": "Chicago_Reader?Aimee_Levitt",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 420,
+"name": "Shannon_Kraus_FAIA_FACHA_LEED_AP_Kate_Renner_AIA_EDAC_Lean-Six_Sigma_CE_LEED_AP_BD?C",
+"query": "Shannon_Kraus_FAIA_FACHA_LEED_AP_Kate_Renner_AIA_EDAC_Lean-Six_Sigma_CE_LEED_AP_BD?C",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 404,
+"name": "?Eric_Mack",
+"query": "?Eric_Mack",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 373,
+"name": "Public_Health_Agency_of_Canada",
+"query": "Public_Health_Agency_of_Canada",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 365,
+"name": "Dogs_Naturally_Magazine?",
+"query": "Dogs_Naturally_Magazine?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 325,
+"name": "U.S._News?Kimberley_Leonard",
+"query": "U.S._News?Kimberley_Leonard",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 309,
+"name": "New_York_Magazine?Jen_Kirby",
+"query": "New_York_Magazine?Jen_Kirby",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 296,
+"name": "www.counterpunch.org?by",
+"query": "www.counterpunch.org?by",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 280,
+"name": "RxList?",
+"query": "RxList?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 276,
+"name": "Natural_News?Mike_Adams",
+"query": "Natural_News?Mike_Adams",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 267,
+"name": "?10_September_2015",
+"query": "?10_September_2015",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 255,
+"name": "Heavy.com?S.J._Prince",
+"query": "Heavy.com?S.J._Prince",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 254,
+"name": "21st_Century_Wire?unknown",
+"query": "21st_Century_Wire?unknown",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 245,
+"name": "Australian_Government_Department_of_Health?Australian_Government_Department_of_Health._Office_of_Health_Protection",
+"query": "Australian_Government_Department_of_Health?Australian_Government_Department_of_Health._Office_of_Health_Protection",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 210,
+"name": "Oredigger?Abby_Zimmerman",
+"query": "Oredigger?Abby_Zimmerman",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 210,
+"name": "VacTruth.com?Christy_Lynn_Day",
+"query": "VacTruth.com?Christy_Lynn_Day",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 204,
+"name": "Kid_Nurse?Danielle_McBurnett_Stringer",
+"query": "Kid_Nurse?Danielle_McBurnett_Stringer",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 196,
+"name": "News.com?unknown",
+"query": "News.com?unknown",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 185,
+"name": "?About_the_Author",
+"query": "?About_the_Author",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 181,
+"name": "PBS?Jenny_Marder",
+"query": "PBS?Jenny_Marder",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 167,
+"name": "GreenMedInfo?Sayer_Yi",
+"query": "GreenMedInfo?Sayer_Yi",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 149,
+"name": "The_Huffington_Post?Jennifer_Raff",
+"query": "The_Huffington_Post?Jennifer_Raff",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 148,
+"name": "Activist_Post?Sayer_Yi",
+"query": "Activist_Post?Sayer_Yi",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 145,
+"name": "wired.com?Katie_M._Palmer",
+"query": "wired.com?Katie_M._Palmer",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 136,
+"name": "ABC_News?ABC_News",
+"query": "ABC_News?ABC_News",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 133,
+"name": "Natural_News?Jonathan_Benson",
+"query": "Natural_News?Jonathan_Benson",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 132,
+"name": "CIDRAP?",
+"query": "CIDRAP?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 129,
+"name": "The_History_of_Vaccines_Blog?Karie_Youngdahl",
+"query": "The_History_of_Vaccines_Blog?Karie_Youngdahl",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 126,
+"name": "Health_Impact_News?",
+"query": "Health_Impact_News?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 125,
+"name": "Natural_News?Ethan_E._Huff",
+"query": "Natural_News?Ethan_E._Huff",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 120,
+"name": "?John_Russell",
+"query": "?John_Russell",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 114,
+"name": "Bloomberg.com?Cynthia_Koons_CynthiaLKoons",
+"query": "Bloomberg.com?Cynthia_Koons_CynthiaLKoons",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 113,
+"name": "ReliefWeb?",
+"query": "ReliefWeb?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 108,
+"name": "A_Humane_Nation?Wayne_Pacelle",
+"query": "A_Humane_Nation?Wayne_Pacelle",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 108,
+"name": "Thinkprogress?Tara_Culp-Ressler",
+"query": "Thinkprogress?Tara_Culp-Ressler",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 106,
+"name": "Yahoo_News?Alicia_Cheng",
+"query": "Yahoo_News?Alicia_Cheng",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 102,
+"name": "Normandie-actuNom_obligatoire?",
+"query": "Normandie-actuNom_obligatoire?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 98,
+"name": "Centre_for_Research_on_Globalization?Ethan_E._Huff",
+"query": "Centre_for_Research_on_Globalization?Ethan_E._Huff",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 98,
+"name": "idahostatesmanBill_Dentzer__bdentzer?idahostatesman.com",
+"query": "idahostatesmanBill_Dentzer__bdentzer?idahostatesman.com",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 97,
+"name": "VetstreetAmy_Sinatra_Ayres___Tue_Oct_11_0802?00_MST_2016",
+"query": "VetstreetAmy_Sinatra_Ayres___Tue_Oct_11_0802?00_MST_2016",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 91,
+"name": "UPMC",
+"query": "UPMC",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 91,
+"name": "the_University_of_Pittsburgh_Schools_of_the_Health_Sciences?Allison_Hydzik",
+"query": "the_University_of_Pittsburgh_Schools_of_the_Health_Sciences?Allison_Hydzik",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 90,
+"name": "NY_Daily_News?unknown",
+"query": "NY_Daily_News?unknown",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 89,
+"name": "NPR?Lisa_Aliferis",
+"query": "NPR?Lisa_Aliferis",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 85,
+"name": "?frickeh8",
+"query": "?frickeh8",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 79,
+"name": "Milford_Daily_News?",
+"query": "Milford_Daily_News?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 78,
+"name": "National_Cancer_Institute?",
+"query": "National_Cancer_Institute?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 78,
+"name": "Reuters?Lisa_Rapaport",
+"query": "Reuters?Lisa_Rapaport",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 76,
+"name": "the_GuardianTracy_McVeigh_Antony_Barnett_httpswww.theguardian.comprofiletracymcveighhttpswww.theguardian.comprofile?antonybarnett",
+"query": "the_GuardianTracy_McVeigh_Antony_Barnett_httpswww.theguardian.comprofiletracymcveighhttpswww.theguardian.comprofile?antonybarnett",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 75,
+"name": "Banning-Beaumont_Patch?Renee_Schiavone",
+"query": "Banning-Beaumont_Patch?Renee_Schiavone",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 74,
+"name": "The_Huffington_Post?Jim_T._Miller_Syndicated_columnist_NBC_Today_contributor_creator_of_SavvySenior.org",
+"query": "The_Huffington_Post?Jim_T._Miller_Syndicated_columnist_NBC_Today_contributor_creator_of_SavvySenior.org",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 72,
+"name": "Centre_for_Infectious_Disease_Disease",
+"query": "Centre_for_Infectious_Disease_Disease",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 72,
+"name": "Policy?Liza_Schnirring",
+"query": "Policy?Liza_Schnirring",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 70,
+"name": "Michael_Paulson",
+"query": "Michael_Paulson",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 70,
+"name": "NY_Times?Jack_Healy",
+"query": "NY_Times?Jack_Healy",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 69,
+"name": "California_Department_of_Public_Health?Anita_Gore",
+"query": "California_Department_of_Public_Health?Anita_Gore",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 68,
+"name": "Mom.me?Sunny_Chanel",
+"query": "Mom.me?Sunny_Chanel",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 67,
+"name": "KQED_News?Scott_Hensley",
+"query": "KQED_News?Scott_Hensley",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 61,
+"name": "?thecowdocs",
+"query": "?thecowdocs",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 55,
+"name": "?AP_-_5_minutes_ago",
+"query": "?AP_-_5_minutes_ago",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 54,
+"name": "?MARY_ANN_HUSTY",
+"query": "?MARY_ANN_HUSTY",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 54,
+"name": "Seven_Days?Terri_Hallenbeck",
+"query": "Seven_Days?Terri_Hallenbeck",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 43,
+"name": "HealthDay?Steven_Reinberg",
+"query": "HealthDay?Steven_Reinberg",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 42,
+"name": "?NCIRD",
+"query": "?NCIRD",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 41,
+"name": "Al_Huffington_PostRdaction_du_HuffPost_Alg?rie",
+"query": "Al_Huffington_PostRdaction_du_HuffPost_Alg?rie",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 40,
+"name": "About_the_Author_EJ_Lane_elane?fiercemarkets.com",
+"query": "About_the_Author_EJ_Lane_elane?fiercemarkets.com",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 35,
+"name": "Atlas_monitor?Paul_Joseph_Watson",
+"query": "Atlas_monitor?Paul_Joseph_Watson",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 30,
+"name": "?Forum_staff_reports",
+"query": "?Forum_staff_reports",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 29,
+"name": "www.larep.fr?Centre_France",
+"query": "www.larep.fr?Centre_France",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 26,
+"name": "sandiegouniontribune.com?Linda_McIntosh",
+"query": "sandiegouniontribune.com?Linda_McIntosh",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 25,
+"name": "The_Hermiston_Herald?",
+"query": "The_Hermiston_Herald?",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 23,
+"name": "La_Crosse_Tribune?Submitted_photo",
+"query": "La_Crosse_Tribune?Submitted_photo",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 23,
+"name": "Sonoma_Humane_Society?Sonoma_Humane_Society",
+"query": "Sonoma_Humane_Society?Sonoma_Humane_Society",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 21,
+"name": "?Daily_Guide",
+"query": "?Daily_Guide",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 21,
+"name": "?GNA",
+"query": "?GNA",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 10,
+"name": "ANSA.it?Redazione_ANSA",
+"query": "ANSA.it?Redazione_ANSA",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 10,
+"name": "CNN",
+"query": "CNN",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 10,
+"name": "CNN?Susan_Scutti",
+"query": "CNN?Susan_Scutti",
+"type": "sourcePhrase"
+}
+],
+"mention_count": 39654,
+"name": "author",
+"query": "author",
+"type": "source"
+},
+{
+"child_count": 157,
+"instances": [
+{
+"mention_count": 4219,
+"name": "someone",
+"query": "someone",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 74,
+"name": "Centers_for_Disease_Control_and_Prevention",
+"query": "Centers_for_Disease_Control_and_Prevention",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 68,
+"name": "World_Health_Organization",
+"query": "World_Health_Organization",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 53,
+"name": "MaimunaMajumder",
+"query": "MaimunaMajumder",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 48,
+"name": "Physician",
+"query": "Physician",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 44,
+"name": "Merck_&_Co.",
+"query": "Merck_&_Co.",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 44,
+"name": "Paul_Offit",
+"query": "Paul_Offit",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 42,
+"name": "Herbert_(Family_Guy)",
+"query": "Herbert_(Family_Guy)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 37,
+"name": "Majumder",
+"query": "Majumder",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 37,
+"name": "Offit",
+"query": "Offit",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 32,
+"name": "Pinchas_Zukerman",
+"query": "Pinchas_Zukerman",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 31,
+"name": "Food_and_Drug_Administration",
+"query": "Food_and_Drug_Administration",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 30,
+"name": "Palazzo_Altieri",
+"query": "Palazzo_Altieri",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 29,
+"name": "Michael_Kirby_(judge)",
+"query": "Michael_Kirby_(judge)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 27,
+"name": "River_Biss",
+"query": "River_Biss",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 23,
+"name": "American_Academy_of_Pediatrics",
+"query": "American_Academy_of_Pediatrics",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 21,
+"name": "Isaac_Brock",
+"query": "Isaac_Brock",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 20,
+"name": "Albert_Sabin",
+"query": "Albert_Sabin",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 20,
+"name": "Stinchfield",
+"query": "Stinchfield",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 18,
+"name": "Ernest_Rutherford",
+"query": "Ernest_Rutherford",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 17,
+"name": "Noah_Webster",
+"query": "Noah_Webster",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 16,
+"name": "Adda_(South_Asian)",
+"query": "Adda_(South_Asian)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 16,
+"name": "French_language",
+"query": "French_language",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 15,
+"name": "vanPanhuis",
+"query": "vanPanhuis",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 13,
+"name": "Chimpanzee",
+"query": "Chimpanzee",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 12,
+"name": "ByronPlant",
+"query": "ByronPlant",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 12,
+"name": "Department_of_Health_(United_Kingdom)",
+"query": "Department_of_Health_(United_Kingdom)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 12,
+"name": "Indiana",
+"query": "Indiana",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 12,
+"name": "W._Averell_Harriman",
+"query": "W._Averell_Harriman",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 11,
+"name": "JWakefield",
+"query": "JWakefield",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 10,
+"name": "Carl_Edwards",
+"query": "Carl_Edwards",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 10,
+"name": "Weston_A._Price_Foundation",
+"query": "Weston_A._Price_Foundation",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 9,
+"name": "Wakefield",
+"query": "Wakefield",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 8,
+"name": "AnneSchuchat",
+"query": "AnneSchuchat",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 8,
+"name": "DPT_vaccine",
+"query": "DPT_vaccine",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 8,
+"name": "DiseaseControlandPrevention",
+"query": "DiseaseControlandPrevention",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 8,
+"name": "Edward_Jenner",
+"query": "Edward_Jenner",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 8,
+"name": "Louis_Pasteur",
+"query": "Louis_Pasteur",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 8,
+"name": "WilliamSchaffner",
+"query": "WilliamSchaffner",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "Alfred_Russel_Wallace",
+"query": "Alfred_Russel_Wallace",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "California",
+"query": "California",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "Chapman_University",
+"query": "Chapman_University",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "European_Medicines_Agency",
+"query": "European_Medicines_Agency",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "GilChavez",
+"query": "GilChavez",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "Harvey_Weinstein",
+"query": "Harvey_Weinstein",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "HervGisserot",
+"query": "HervGisserot",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "KVIL",
+"query": "KVIL",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "LeslieManookian",
+"query": "LeslieManookian",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "Novartis",
+"query": "Novartis",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 7,
+"name": "PittmanMoore",
+"query": "PittmanMoore",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "American_Veterinary_Medical_Association",
+"query": "American_Veterinary_Medical_Association",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "Cornell_University",
+"query": "Cornell_University",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "Democratic_Republic_of_the_Congo",
+"query": "Democratic_Republic_of_the_Congo",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "DrugAdministration",
+"query": "DrugAdministration",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "ImmunizationServicesDivision",
+"query": "ImmunizationServicesDivision",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "National_Childhood_Vaccine_Injury_Act",
+"query": "National_Childhood_Vaccine_Injury_Act",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "Pharmaceutical_Research_and_Manufacturers_of_America",
+"query": "Pharmaceutical_Research_and_Manufacturers_of_America",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "TiffanyMagee",
+"query": "TiffanyMagee",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 6,
+"name": "United_States",
+"query": "United_States",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "Ben_Wyatt_(Parks_and_Recreation)",
+"query": "Ben_Wyatt_(Parks_and_Recreation)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "DrJamieson",
+"query": "DrJamieson",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "General_practitioner",
+"query": "General_practitioner",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "Harlan_Ellison",
+"query": "Harlan_Ellison",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "Jeff_Lorber",
+"query": "Jeff_Lorber",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "ManhunPark",
+"query": "ManhunPark",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "Republican_Party_(United_States)",
+"query": "Republican_Party_(United_States)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 5,
+"name": "The_Times",
+"query": "The_Times",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Academic_degree",
+"query": "Academic_degree",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "AlexaBeikmann",
+"query": "AlexaBeikmann",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "CarolBakerofBaylorCollegeofMedicine",
+"query": "CarolBakerofBaylorCollegeofMedicine",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Dick_Armey",
+"query": "Dick_Armey",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "EricHandler",
+"query": "EricHandler",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Federal_government_of_the_United_States",
+"query": "Federal_government_of_the_United_States",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Institute_of_Medicine",
+"query": "Institute_of_Medicine",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Karron",
+"query": "Karron",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "OfficeofMedicalandScientificJustice",
+"query": "OfficeofMedicalandScientificJustice",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "RachelJamisonWebster",
+"query": "RachelJamisonWebster",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Richard_Ford",
+"query": "Richard_Ford",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Shotts",
+"query": "Shotts",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "Silberman",
+"query": "Silberman",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 4,
+"name": "United_Nations_General_Assembly",
+"query": "United_Nations_General_Assembly",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Berezow",
+"query": "Berezow",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "CarrieByington",
+"query": "CarrieByington",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Cedric_Daniels",
+"query": "Cedric_Daniels",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Charles_George_Gordon",
+"query": "Charles_George_Gordon",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "David_Lewis_(philosopher)",
+"query": "David_Lewis_(philosopher)",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "FormerAdaCountyCoronerErwinSonnenberg",
+"query": "FormerAdaCountyCoronerErwinSonnenberg",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Foster",
+"query": "Foster",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Griffin",
+"query": "Griffin",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "IUHealthGoshenHospital",
+"query": "IUHealthGoshenHospital",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Jenny_McCarthy",
+"query": "Jenny_McCarthy",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Joe_Palmer",
+"query": "Joe_Palmer",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Johann_Gottfried_Gruber",
+"query": "Johann_Gottfried_Gruber",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "KirtlanNaylor",
+"query": "KirtlanNaylor",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "NathanKangas",
+"query": "NathanKangas",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Pan_American_Health_Organization",
+"query": "Pan_American_Health_Organization",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Professional_degrees_of_public_health",
+"query": "Professional_degrees_of_public_health",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "ProjectTycho",
+"query": "ProjectTycho",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "RLewiston",
+"query": "RLewiston",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "RichardJaffe",
+"query": "RichardJaffe",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "RipleyBallou",
+"query": "RipleyBallou",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Shannon_Airport",
+"query": "Shannon_Airport",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Trip_Tucker",
+"query": "Trip_Tucker",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "WalterOrenstein",
+"query": "WalterOrenstein",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 3,
+"name": "Wiesbaden-Sonnenberg",
+"query": "Wiesbaden-Sonnenberg",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "CNN",
+"query": "CNN",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "California_Department_of_Public_Health",
+"query": "California_Department_of_Public_Health",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Colorado",
+"query": "Colorado",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "CristinaCassetti",
+"query": "CristinaCassetti",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Demographics_of_the_United_States",
+"query": "Demographics_of_the_United_States",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Ebola_virus_disease",
+"query": "Ebola_virus_disease",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "FAQ",
+"query": "FAQ",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Hia",
+"query": "Hia",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Influenza",
+"query": "Influenza",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "JamesCherry",
+"query": "JamesCherry",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Kohl's",
+"query": "Kohl's",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "LauraRiley",
+"query": "LauraRiley",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "LosAngelesCountyDepartmentofPublicHealthInterimHealthOfficer",
+"query": "LosAngelesCountyDepartmentofPublicHealthInterimHealthOfficer",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "MarionGruber",
+"query": "MarionGruber",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Massachusetts",
+"query": "Massachusetts",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Men_who_have_sex_with_men",
+"query": "Men_who_have_sex_with_men",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Oxford_Journal",
+"query": "Oxford_Journal",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Patricia_Heaton",
+"query": "Patricia_Heaton",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Reuters",
+"query": "Reuters",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Rupert_Murdoch",
+"query": "Rupert_Murdoch",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Sardar",
+"query": "Sardar",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "Seqirus",
+"query": "Seqirus",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "ShaneEllison",
+"query": "ShaneEllison",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "UNICEF",
+"query": "UNICEF",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 2,
+"name": "United_States_Department_of_Defense",
+"query": "United_States_Department_of_Defense",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Australia",
+"query": "Australia",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Benjamin_Tucker",
+"query": "Benjamin_Tucker",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "British_Empire",
+"query": "British_Empire",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Burton_upon_Trent",
+"query": "Burton_upon_Trent",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Butch_Otter",
+"query": "Butch_Otter",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "CSL_Limited",
+"query": "CSL_Limited",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Chumakov",
+"query": "Chumakov",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Colombia",
+"query": "Colombia",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Committee",
+"query": "Committee",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "DiseaseControl",
+"query": "DiseaseControl",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Dorothy_M._Horstmann",
+"query": "Dorothy_M._Horstmann",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Eli_Lilly_and_Company",
+"query": "Eli_Lilly_and_Company",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "GlaxoSmithKline",
+"query": "GlaxoSmithKline",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "HANAdvisory",
+"query": "HANAdvisory",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "James_Baker",
+"query": "James_Baker",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Los_Angeles_Times",
+"query": "Los_Angeles_Times",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "National_Vaccine_Information_Center",
+"query": "National_Vaccine_Information_Center",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Panacea_Biotec",
+"query": "Panacea_Biotec",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Pendleton,_Oregon",
+"query": "Pendleton,_Oregon",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "RobertSears",
+"query": "RobertSears",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "RyanHenry",
+"query": "RyanHenry",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "SaleAbsolute",
+"query": "SaleAbsolute",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Sanofi",
+"query": "Sanofi",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Sindarin",
+"query": "Sindarin",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "The_Sydney_Morning_Herald",
+"query": "The_Sydney_Morning_Herald",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "Thiomersal",
+"query": "Thiomersal",
+"type": "sourcePhrase"
+},
+{
+"mention_count": 1,
+"name": "United_Nations",
+"query": "United_Nations",
+"type": "sourcePhrase"
+}
+],
+"mention_count": 5506,
+"name": "cite",
+"query": "cite",
+"type": "source"
+}
+]}
