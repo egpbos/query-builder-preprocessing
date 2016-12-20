@@ -2,43 +2,7 @@
 Collects data preprocessing scripts for query-builder-server
 
 
-# Piek's new data model
-
-|   | Type | Phrase  | Instance  |
-|---|---|---|---|
-| entity | [entityType](#entitytype) | [entityPhrase](#entityphrase) | [entityInstance](#entityinstance) |
-| event | [eventType](#eventtype) | [eventPhrase](#eventphrase) | [eventInstance](#eventinstance) |
-| source | [sourceType](#sourcetype) | [sourcePhrase](#sourcephrase) | [sourceInstance](#sourceinstance) |
-| topic | [topicType](#topictype) | [topicPhrase](#topicphrase) | [topicInstance](#topicInstance) |
-
-
-
-## entityType
-
-## entityPhrase
-
-## entityInstance
-
-## eventType
-
-## eventPhrase
-
-## eventInstance
-
-## sourceType
-
-## sourcePhrase
-
-## sourceInstance
-
-## topicType
-
-## topicPhrase
-
-## topicInstance
-
-
-Maybe a more succinct description is:
+# Data structure
 
 - nodes can be of 1 of 4 types:
     1. entity
@@ -91,5 +55,23 @@ Questions:
 - Why do both entities and instances-of-entities have a ``type`` field while they are already part of the entity tree?
 - Why do instances list their parent? I already know what their parent is, because the data is nested.
 - How would phrases fit into the succint data model?
+- There aren't any instances of anything (for example, a ``grep`` on ``"event`` returns 1032 occurrences in events.json, of which there are 977 ``eventPhrase``s and 55 ``eventType``s, but no ``eventInstance``s.) Also the ``eventPhrase`` part of an array called ``instances``.
 
+
+# How to parse the JSONs into an sqlite3 database
+
+```bash
+cd src
+python3 create_sqlite.py --input ../data/entities.json --name ../data/storyteller.db --tablename entities
+python3 create_sqlite.py --input ../data/events.json --name ../data/storyteller.db --tablename events
+python3 create_sqlite.py --input ../data/sources.json --name ../data/storyteller.db --tablename sources
+python3 create_sqlite.py --input ../data/topics.json --name ../data/storyteller.db --tablename topics
+
+# afterwards, the snippet below should return some records
+sqlite3 ../data/storyteller.db
+sqlite> SELECT * FROM entities;
+sqlite> SELECT * FROM events;
+sqlite> SELECT * FROM sources;
+sqlite> SELECT * FROM topics;
+```
 

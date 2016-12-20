@@ -5,76 +5,62 @@ import json
 import sqlite3
 
 
-def parse_node(node, cursor, parent_id=None, level=0):
+def parse_node(node=None, cursor=None, tablename=None, is_instance=None, child_of=None, level=None ):
     """
         this function recursively calls itself on its instances or children, if there are any.
     """
 
-    def isleaf():
-        if 'instance_count' in node.keys() and node['instance_count'] > 0:
-            return False
-        elif 'children' in node.keys() and len(node['children']) > 0:
-            return False
-        else:
-            return True
+    if 'children' in node.keys():
+        child_count = len(node['children'])
+    else:
+        child_count = 0
 
-    if 'type' in node.keys():
-        # node is an entity
+    if 'instances' in node.keys():
+        instance_count = len(node['instances'])
+    else:
+        instance_count = 0
 
-        child_of = parent_id
-        is_entity = True
-        is_instance = False
-        is_leaf = isleaf()
-        if 'mention_count' in node.keys():
-            mention_count = node['mention_count']
-        else:
-            mention_count = 0
+    if 'mention_count' in node.keys():
+        mention_count = node['mention_count']
+    else:
+        mention_count = 0
+
+    if child_of is None:
+        name=''
+        child_of=0
+    else:
         name = node['name']
-        url = node['url']
 
-        cursor.execute('INSERT INTO nodes ' +
-                       '(childof,isentity,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_leaf, is_instance, level, mention_count, name, url))
+    cursor.execute('INSERT INTO ' + tablename + ' ' +
+                   '(name, isinstance, childof, level, childcount, instancecount, mentioncount) VALUES (?,?,?,?,?,?,?)',
+                   (name, 1 if is_instance is True else 0, child_of, level, child_count, instance_count, mention_count))
 
-        if 'children' in node.keys():
-            num_children = len(node['children'])
-        else:
-            num_children = 0
-
-        entity_id = cursor.lastrowid
-        deeper_level = level + 1
-
-        if node['instance_count'] > 0:
-            # It has instances
-            for instance in node['instances']:
-                parse_node(instance, cursor, entity_id, deeper_level)
-
-        if num_children > 0:
-            for child in node['children']:
-                parse_node(child, cursor, entity_id, deeper_level)
+    if is_instance:
         return None
     else:
-        # node is an instance
+        # fire off recursive calls
+        parent_id = cursor.lastrowid
 
-        child_of = parent_id
-        is_entity = False
-        is_instance = True
-        is_leaf = isleaf()
-        if 'mention_count' in node.keys():
-            mention_count = node['mention_count']
-        else:
-            mention_count = 0
-        name = node['name']
-        url = node['url']
-
-        cursor.execute('INSERT INTO nodes ' +
-                       '(childof,isentity,isleaf,isinstance,level,mentioncount,name,url) VALUES (?,?,?,?,?,?,?,?)',
-                       (child_of, is_entity, is_leaf, is_instance, level, mention_count, name, url))
+        if child_count > 0:
+            # It has children
+            for child in node['children']:
+                print(level * '    ', child['name'])
+                parse_node(node=child, cursor=cursor, tablename=tablename, is_instance=False,
+                           child_of=parent_id, level=level + 1)
+        if instance_count > 0:
+            # It has instances
+            for instance in node['instances']:
+                print(level * '    ', instance['name'], '(i)')
+                parse_node(node=instance, cursor=cursor, tablename=tablename, is_instance=True,
+                           child_of=parent_id, level=level + 1)
 
         return None
 
 
-def run(input_json, db_name):
+
+
+
+def run(input_json, db_name, tablename):
     if not os.path.isfile(input_json):
         raise Exception('File not found: ' + input_json)
 
@@ -85,22 +71,22 @@ def run(input_json, db_name):
 
     c = conn.cursor()
 
-    c.execute("""
-        CREATE TABLE nodes (
-            childof integer,
-            id integer primary key autoincrement,
-            isentity integer not null,
-            isleaf integer not null,
-            isinstance integer not null,
-            level integer not null,
-            mentioncount integer not null,
-            name text not null,
-            url text not null)
-            """)
+    querystr = """CREATE TABLE """ + tablename + """ (
+        id integer primary key autoincrement,
+        name text not null,
+        isinstance integer not null,
+        childof integer not null,
+        level integer not null,
+        childcount integer not null,
+        instancecount integer not null,
+        mentioncount integer not null
+        )"""
+
+    c.execute(querystr)
 
     with open(input_json) as jsonFile:
-        data = json.load(jsonFile)
-        parse_node(data['children'][0], c, 0)
+        rootnode = json.load(jsonFile)
+        parse_node(node=rootnode, cursor=c, tablename=tablename, is_instance=False, child_of=None, level=0)
 
     conn.commit()
 
@@ -113,13 +99,14 @@ def argument_parser():
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('-i', '--input', default='', help='Input JSON file', type=str, required=True)
     parser.add_argument('-n', '--name', default='', help='DB name (must end with .db)', type=str, required=True)
+    parser.add_argument('-t', '--tablename', default='', help='table name', type=str, required=True)
     return parser
 
 
 def main():
     try:
         a = argument_parser().parse_args()
-        run(a.input, a.name)
+        run(a.input, a.name, a.tablename)
     except Exception as e:
         print(e)
 
