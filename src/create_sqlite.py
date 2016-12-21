@@ -26,21 +26,18 @@ def parse_node(node=None, cursor=None, tablename=None, is_instance=None, child_o
         mention_count = 0
 
     if child_of is None:
-        name=''
-        child_of=0
+        parent_id = -1
     else:
         name = node['name']
-
-    cursor.execute('INSERT INTO ' + tablename + ' ' +
-                   '(name, isinstance, childof, level, childcount, instancecount, mentioncount) VALUES (?,?,?,?,?,?,?)',
-                   (name, 1 if is_instance is True else 0, child_of, level, child_count, instance_count, mention_count))
+        cursor.execute('INSERT INTO ' + tablename + ' ' +
+                       '(name, isinstance, childof, childcount, instancecount, mentioncount) VALUES (?,?,?,?,?,?)',
+                       (name, 1 if is_instance is True else 0, child_of, child_count, instance_count, mention_count))
+        parent_id = cursor.lastrowid
 
     if is_instance:
         return None
     else:
         # fire off recursive calls
-        parent_id = cursor.lastrowid
-
         if child_count > 0:
             # It has children
             for child in node['children']:
@@ -76,7 +73,6 @@ def run(input_json, db_name, tablename):
         name text not null,
         isinstance integer not null,
         childof integer not null,
-        level integer not null,
         childcount integer not null,
         instancecount integer not null,
         mentioncount integer not null
