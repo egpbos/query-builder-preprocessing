@@ -13,6 +13,7 @@ def run(db_name):
 
     querystr = """CREATE TABLE queries (
         id integer primary key autoincrement,
+        username string,
         query string,
         finished boolean,
         result blob        
