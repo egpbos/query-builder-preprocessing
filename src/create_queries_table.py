@@ -11,11 +11,14 @@ def run(db_name):
 
     cursor = conn.cursor()
 
+    # status can have 0 (pending) , 1 (finished) or 2 (error)
+    # if error is set, blob contains the error message
+
     querystr = """CREATE TABLE queries (
         id integer primary key autoincrement,
         username string,
         query string,
-        finished boolean,
+        status number,
         result blob        
         )"""
 
