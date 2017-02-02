@@ -2,7 +2,7 @@ python:
   - "3.6"
 
 install:
-#  - git clone 
+#  - git clone  
   - pip install --user sqlite3
 
 script:
