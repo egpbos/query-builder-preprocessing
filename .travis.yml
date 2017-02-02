@@ -1,0 +1,14 @@
+python:
+  - "3.6"
+
+install:
+#  - git clone 
+  - pip install --user sqlite3
+
+script:
+  - cd src
+  - python3 create_sqlite.py --input ../data/entities.json --name ../data/storyteller.db --tablename entities
+  - python3 create_sqlite.py --input ../data/events.json --name ../data/storyteller.db --tablename events
+  - python3 create_sqlite.py --input ../data/sources.json --name ../data/storyteller.db --tablename sources
+  - python3 create_sqlite.py --input ../data/topics.json --name ../data/storyteller.db --tablename topics
+  
