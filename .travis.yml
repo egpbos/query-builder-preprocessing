@@ -1,9 +1,8 @@
 python:
   - "3.6"
 
-install:
-#  - git clone  
-  - pip install --user sqlite3
+#install:
+#  - git clone 
 
 script:
   - cd src
